@@ -1,0 +1,4096 @@
+{
+    "lvl.1": {
+        "Three Musketeers": {},
+        "Golem": {},
+        "Royal Recruits": {
+            "Hitpoints": 208,
+            "Shield Hitpoints": 94,
+            "Damage": 52,
+            "Damage/sec": 40
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {},
+        "Mega Knight": {},
+        "Electro Giant": {},
+        "Sparky": {},
+        "Giant Skeleton": {},
+        "Goblin Giant": {},
+        "Royal Giant": {
+            "Hitpoints": 1200,
+            "Damage": 120,
+            "Damage/sec": 70
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 524,
+            "Damage": 150,
+            "Damage/sec": 107
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {},
+        "Witch": {},
+        "Prince": {},
+        "Bowler": {},
+        "Executioner": {},
+        "Cannon Cart": {},
+        "Electro Dragon": {},
+        "Giant": {},
+        "Royal Hogs": {},
+        "Wizard": {},
+        "Barbarians": {
+            "Hitpoints": 262,
+            "Damage": 75,
+            "Damage/sec": 57
+        },
+        "Minion Horde": {
+            "Hitpoints": 90,
+            "Damage": 40,
+            "Damage/sec": 40
+        },
+        "Rascals": {
+            "Hitpoints": 715,
+            "Damage": 52,
+            "Damage/sec": 34
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {},
+        "Dark Prince": {},
+        "Hunter": {},
+        "Valkyrie": {},
+        "Musketeer": {},
+        "Mini P.E.K.K.A": {},
+        "Hog Rider": {},
+        "Battle Ram": {},
+        "Zappies": {},
+        "Flying Machine": {},
+        "Battle Healer": {},
+        "Skeleton Dragons": {
+            "Hitpoints": 208,
+            "Area Damage": 63,
+            "Damage/sec": 33
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {},
+        "Guards": {},
+        "Mega Minion": {},
+        "Dart Goblin": {},
+        "Elixir Golem": {},
+        "Knight": {
+            "Hitpoints": 651,
+            "Damage": 79,
+            "Damage/sec": 65
+        },
+        "Archers": {
+            "Hitpoints": 119,
+            "Damage": 42,
+            "Damage/sec": 38
+        },
+        "Minions": {
+            "Hitpoints": 90,
+            "Damage": 40,
+            "Damage/sec": 40
+        },
+        "Goblin Gang": {
+            "Hitpoints": 79,
+            "Damage": 47,
+            "Damage/sec": 42
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 208
+        },
+        "Firecracker": {
+            "Hitpoints": 119,
+            "Area Damage": 25,
+            "Damage/sec": 8
+        },
+        "Wall Breakers": {},
+        "Ice Golem": {},
+        "Goblins": {
+            "Hitpoints": 79,
+            "Damage": 47,
+            "Damage/sec": 42
+        },
+        "Bomber": {
+            "Hitpoints": 130,
+            "Area Damage": 87,
+            "Damage/sec": 48
+        },
+        "Spear Goblins": {
+            "Hitpoints": 52,
+            "Damage": 32,
+            "Damage/sec": 18
+        },
+        "Bats": {
+            "Hitpoints": 32,
+            "Damage": 32,
+            "Damage/sec": 24
+        },
+        "Skeletons": {
+            "Hitpoints": 32,
+            "Damage": 32,
+            "Damage/sec": 32
+        },
+        "Ice Spirit": {
+            "Hitpoints": 90,
+            "Area Damage": 43
+        },
+        "Fire Spirit": {
+            "Hitpoints": 90,
+            "Area Damage": 89
+        },
+        "Electro Spirit": {
+            "Hitpoints": 90,
+            "Damage": 39
+        }
+    },
+    "lvl.2": {
+        "Three Musketeers": {},
+        "Golem": {},
+        "Royal Recruits": {
+            "Hitpoints": 228,
+            "Shield Hitpoints": 103,
+            "Damage": 57,
+            "Damage/sec": 43
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {},
+        "Mega Knight": {},
+        "Electro Giant": {},
+        "Sparky": {},
+        "Giant Skeleton": {},
+        "Goblin Giant": {},
+        "Royal Giant": {
+            "Hitpoints": 1320,
+            "Damage": 132,
+            "Damage/sec": 77
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 576,
+            "Damage": 165,
+            "Damage/sec": 117
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {},
+        "Witch": {},
+        "Prince": {},
+        "Bowler": {},
+        "Executioner": {},
+        "Cannon Cart": {},
+        "Electro Dragon": {},
+        "Giant": {},
+        "Royal Hogs": {},
+        "Wizard": {},
+        "Barbarians": {
+            "Hitpoints": 288,
+            "Damage": 82,
+            "Damage/sec": 63
+        },
+        "Minion Horde": {
+            "Hitpoints": 99,
+            "Damage": 44,
+            "Damage/sec": 44
+        },
+        "Rascals": {
+            "Hitpoints": 786,
+            "Damage": 57,
+            "Damage/sec": 38
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {},
+        "Dark Prince": {},
+        "Hunter": {},
+        "Valkyrie": {},
+        "Musketeer": {},
+        "Mini P.E.K.K.A": {},
+        "Hog Rider": {},
+        "Battle Ram": {},
+        "Zappies": {},
+        "Flying Machine": {},
+        "Battle Healer": {},
+        "Skeleton Dragons": {
+            "Hitpoints": 228,
+            "Area Damage": 69,
+            "Damage/sec": 36
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {},
+        "Guards": {},
+        "Mega Minion": {},
+        "Dart Goblin": {},
+        "Elixir Golem": {},
+        "Knight": {
+            "Hitpoints": 716,
+            "Damage": 86,
+            "Damage/sec": 71
+        },
+        "Archers": {
+            "Hitpoints": 130,
+            "Damage": 46,
+            "Damage/sec": 41
+        },
+        "Minions": {
+            "Hitpoints": 99,
+            "Damage": 44,
+            "Damage/sec": 44
+        },
+        "Goblin Gang": {
+            "Hitpoints": 86,
+            "Damage": 51,
+            "Damage/sec": 46
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 228
+        },
+        "Firecracker": {
+            "Hitpoints": 130,
+            "Area Damage": 27,
+            "Damage/sec": 9
+        },
+        "Wall Breakers": {},
+        "Ice Golem": {},
+        "Goblins": {
+            "Hitpoints": 86,
+            "Damage": 51,
+            "Damage/sec": 46
+        },
+        "Bomber": {
+            "Hitpoints": 143,
+            "Area Damage": 95,
+            "Damage/sec": 52
+        },
+        "Spear Goblins": {
+            "Hitpoints": 57,
+            "Damage": 35,
+            "Damage/sec": 20
+        },
+        "Bats": {
+            "Hitpoints": 35,
+            "Damage": 35,
+            "Damage/sec": 26
+        },
+        "Skeletons": {
+            "Hitpoints": 35,
+            "Damage": 35,
+            "Damage/sec": 35
+        },
+        "Ice Spirit": {
+            "Hitpoints": 99,
+            "Area Damage": 47
+        },
+        "Fire Spirit": {
+            "Hitpoints": 99,
+            "Area Damage": 97
+        },
+        "Electro Spirit": {
+            "Hitpoints": 99,
+            "Damage": 42
+        }
+    },
+    "lvl.3": {
+        "Three Musketeers": {
+            "Hitpoints": 340,
+            "Damage": 103,
+            "Damage/sec": 103
+        },
+        "Golem": {},
+        "Royal Recruits": {
+            "Hitpoints": 251,
+            "Shield Hitpoints": 113,
+            "Damage": 62,
+            "Damage/sec": 47
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {},
+        "Mega Knight": {},
+        "Electro Giant": {},
+        "Sparky": {},
+        "Giant Skeleton": {},
+        "Goblin Giant": {},
+        "Royal Giant": {
+            "Hitpoints": 1452,
+            "Damage": 145,
+            "Damage/sec": 85
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 634,
+            "Damage": 181,
+            "Damage/sec": 129
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {},
+        "Witch": {},
+        "Prince": {},
+        "Bowler": {},
+        "Executioner": {},
+        "Cannon Cart": {},
+        "Electro Dragon": {},
+        "Giant": {
+            "Hitpoints": 1930,
+            "Damage": 120,
+            "Damage/sec": 80
+        },
+        "Royal Hogs": {
+            "Hitpoints": 395,
+            "Damage": 35,
+            "Damage/sec": 29
+        },
+        "Wizard": {
+            "Hitpoints": 340,
+            "Area Damage": 133,
+            "Damage/sec": 95
+        },
+        "Barbarians": {
+            "Hitpoints": 317,
+            "Damage": 90,
+            "Damage/sec": 69
+        },
+        "Minion Horde": {
+            "Hitpoints": 108,
+            "Damage": 48,
+            "Damage/sec": 48
+        },
+        "Rascals": {
+            "Hitpoints": 865,
+            "Damage": 62,
+            "Damage/sec": 41
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {},
+        "Dark Prince": {},
+        "Hunter": {},
+        "Valkyrie": {
+            "Hitpoints": 900,
+            "Area Damage": 126,
+            "Damage/sec": 84
+        },
+        "Musketeer": {
+            "Hitpoints": 340,
+            "Damage": 103,
+            "Damage/sec": 103
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 642,
+            "Damage": 340,
+            "Damage/sec": 212
+        },
+        "Hog Rider": {
+            "Hitpoints": 800,
+            "Damage": 150,
+            "Damage/sec": 93
+        },
+        "Battle Ram": {
+            "Hitpoints": 430,
+            "Damage": 135,
+            "Charge Damage": 270
+        },
+        "Zappies": {
+            "Hitpoints": 250,
+            "Damage": 55,
+            "Damage/sec": 26
+        },
+        "Flying Machine": {
+            "Hitpoints": 290,
+            "Damage": 81,
+            "Damage/sec": 73
+        },
+        "Battle Healer": {
+            "Hitpoints": 810,
+            "Damage": 70,
+            "Damage/sec": 46
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 251,
+            "Area Damage": 76,
+            "Damage/sec": 40
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {},
+        "Guards": {},
+        "Mega Minion": {
+            "Hitpoints": 395,
+            "Damage": 147,
+            "Damage/sec": 91
+        },
+        "Dart Goblin": {
+            "Hitpoints": 123,
+            "Damage": 62,
+            "Damage/sec": 88
+        },
+        "Elixir Golem": {
+            "Hitpoints": 680,
+            "Damage": 120,
+            "Damage/sec": 92
+        },
+        "Knight": {
+            "Hitpoints": 787,
+            "Damage": 95,
+            "Damage/sec": 79
+        },
+        "Archers": {
+            "Hitpoints": 143,
+            "Damage": 50,
+            "Damage/sec": 45
+        },
+        "Minions": {
+            "Hitpoints": 108,
+            "Damage": 48,
+            "Damage/sec": 48
+        },
+        "Goblin Gang": {
+            "Hitpoints": 95,
+            "Damage": 56,
+            "Damage/sec": 50
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 251
+        },
+        "Firecracker": {
+            "Hitpoints": 143,
+            "Area Damage": 30,
+            "Damage/sec": 10
+        },
+        "Wall Breakers": {},
+        "Ice Golem": {
+            "Hitpoints": 565,
+            "Damage": 40,
+            "Damage/sec": 16,
+            "Death Damage": 40
+        },
+        "Goblins": {
+            "Hitpoints": 95,
+            "Damage": 56,
+            "Damage/sec": 50
+        },
+        "Bomber": {
+            "Hitpoints": 157,
+            "Area Damage": 105,
+            "Damage/sec": 58
+        },
+        "Spear Goblins": {
+            "Hitpoints": 62,
+            "Damage": 38,
+            "Damage/sec": 22
+        },
+        "Bats": {
+            "Hitpoints": 38,
+            "Damage": 38,
+            "Damage/sec": 29
+        },
+        "Skeletons": {
+            "Hitpoints": 38,
+            "Damage": 38,
+            "Damage/sec": 38
+        },
+        "Ice Spirit": {
+            "Hitpoints": 108,
+            "Area Damage": 52
+        },
+        "Fire Spirit": {
+            "Hitpoints": 108,
+            "Area Damage": 107
+        },
+        "Electro Spirit": {
+            "Hitpoints": 108,
+            "Damage": 47
+        }
+    },
+    "lvl.4": {
+        "Three Musketeers": {
+            "Hitpoints": 374,
+            "Damage": 113,
+            "Damage/sec": 113
+        },
+        "Golem": {},
+        "Royal Recruits": {
+            "Hitpoints": 276,
+            "Shield Hitpoints": 125,
+            "Damage": 69,
+            "Damage/sec": 53
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {},
+        "Mega Knight": {},
+        "Electro Giant": {},
+        "Sparky": {},
+        "Giant Skeleton": {},
+        "Goblin Giant": {},
+        "Royal Giant": {
+            "Hitpoints": 1596,
+            "Damage": 159,
+            "Damage/sec": 93
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 696,
+            "Damage": 199,
+            "Damage/sec": 142
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {},
+        "Witch": {},
+        "Prince": {},
+        "Bowler": {},
+        "Executioner": {},
+        "Cannon Cart": {},
+        "Electro Dragon": {},
+        "Giant": {
+            "Hitpoints": 2123,
+            "Damage": 132,
+            "Damage/sec": 88
+        },
+        "Royal Hogs": {
+            "Hitpoints": 434,
+            "Damage": 38,
+            "Damage/sec": 31
+        },
+        "Wizard": {
+            "Hitpoints": 374,
+            "Area Damage": 146,
+            "Damage/sec": 104
+        },
+        "Barbarians": {
+            "Hitpoints": 348,
+            "Damage": 99,
+            "Damage/sec": 76
+        },
+        "Minion Horde": {
+            "Hitpoints": 119,
+            "Damage": 53,
+            "Damage/sec": 53
+        },
+        "Rascals": {
+            "Hitpoints": 950,
+            "Damage": 69,
+            "Damage/sec": 46
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {},
+        "Dark Prince": {},
+        "Hunter": {},
+        "Valkyrie": {
+            "Hitpoints": 990,
+            "Area Damage": 138,
+            "Damage/sec": 92
+        },
+        "Musketeer": {
+            "Hitpoints": 374,
+            "Damage": 113,
+            "Damage/sec": 113
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 706,
+            "Damage": 374,
+            "Damage/sec": 233
+        },
+        "Hog Rider": {
+            "Hitpoints": 880,
+            "Damage": 165,
+            "Damage/sec": 103
+        },
+        "Battle Ram": {
+            "Hitpoints": 473,
+            "Damage": 148,
+            "Charge Damage": 297
+        },
+        "Zappies": {
+            "Hitpoints": 275,
+            "Damage": 60,
+            "Damage/sec": 28
+        },
+        "Flying Machine": {
+            "Hitpoints": 319,
+            "Damage": 89,
+            "Damage/sec": 80
+        },
+        "Battle Healer": {
+            "Hitpoints": 891,
+            "Damage": 77,
+            "Damage/sec": 51
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 276,
+            "Area Damage": 83,
+            "Damage/sec": 43
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {},
+        "Guards": {},
+        "Mega Minion": {
+            "Hitpoints": 434,
+            "Damage": 161,
+            "Damage/sec": 100
+        },
+        "Dart Goblin": {
+            "Hitpoints": 135,
+            "Damage": 68,
+            "Damage/sec": 97
+        },
+        "Elixir Golem": {
+            "Hitpoints": 748,
+            "Damage": 132,
+            "Damage/sec": 101
+        },
+        "Knight": {
+            "Hitpoints": 865,
+            "Damage": 105,
+            "Damage/sec": 87
+        },
+        "Archers": {
+            "Hitpoints": 158,
+            "Damage": 55,
+            "Damage/sec": 50
+        },
+        "Minions": {
+            "Hitpoints": 119,
+            "Damage": 53,
+            "Damage/sec": 53
+        },
+        "Goblin Gang": {
+            "Hitpoints": 105,
+            "Damage": 62,
+            "Damage/sec": 56
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 276
+        },
+        "Firecracker": {
+            "Hitpoints": 158,
+            "Area Damage": 33,
+            "Damage/sec": 11
+        },
+        "Wall Breakers": {},
+        "Ice Golem": {
+            "Hitpoints": 621,
+            "Damage": 44,
+            "Damage/sec": 17,
+            "Death Damage": 44
+        },
+        "Goblins": {
+            "Hitpoints": 105,
+            "Damage": 62,
+            "Damage/sec": 56
+        },
+        "Bomber": {
+            "Hitpoints": 172,
+            "Area Damage": 115,
+            "Damage/sec": 63
+        },
+        "Spear Goblins": {
+            "Hitpoints": 69,
+            "Damage": 42,
+            "Damage/sec": 24
+        },
+        "Bats": {
+            "Hitpoints": 42,
+            "Damage": 42,
+            "Damage/sec": 32
+        },
+        "Skeletons": {
+            "Hitpoints": 42,
+            "Damage": 42,
+            "Damage/sec": 42
+        },
+        "Ice Spirit": {
+            "Hitpoints": 119,
+            "Area Damage": 57
+        },
+        "Fire Spirit": {
+            "Hitpoints": 119,
+            "Area Damage": 118
+        },
+        "Electro Spirit": {
+            "Hitpoints": 119,
+            "Damage": 51
+        }
+    },
+    "lvl.5": {
+        "Three Musketeers": {
+            "Hitpoints": 411,
+            "Damage": 124,
+            "Damage/sec": 124
+        },
+        "Golem": {},
+        "Royal Recruits": {
+            "Hitpoints": 303,
+            "Shield Hitpoints": 137,
+            "Damage": 75,
+            "Damage/sec": 57
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {},
+        "Mega Knight": {},
+        "Electro Giant": {},
+        "Sparky": {},
+        "Giant Skeleton": {},
+        "Goblin Giant": {},
+        "Royal Giant": {
+            "Hitpoints": 1752,
+            "Damage": 175,
+            "Damage/sec": 102
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 765,
+            "Damage": 219,
+            "Damage/sec": 156
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {},
+        "Witch": {},
+        "Prince": {},
+        "Bowler": {},
+        "Executioner": {},
+        "Cannon Cart": {},
+        "Electro Dragon": {},
+        "Giant": {
+            "Hitpoints": 2335,
+            "Damage": 145,
+            "Damage/sec": 96
+        },
+        "Royal Hogs": {
+            "Hitpoints": 477,
+            "Damage": 42,
+            "Damage/sec": 35
+        },
+        "Wizard": {
+            "Hitpoints": 411,
+            "Area Damage": 160,
+            "Damage/sec": 114
+        },
+        "Barbarians": {
+            "Hitpoints": 382,
+            "Damage": 109,
+            "Damage/sec": 83
+        },
+        "Minion Horde": {
+            "Hitpoints": 131,
+            "Damage": 58,
+            "Damage/sec": 58
+        },
+        "Rascals": {
+            "Hitpoints": 1043,
+            "Damage": 75,
+            "Damage/sec": 50
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {},
+        "Dark Prince": {},
+        "Hunter": {},
+        "Valkyrie": {
+            "Hitpoints": 1089,
+            "Area Damage": 152,
+            "Damage/sec": 101
+        },
+        "Musketeer": {
+            "Hitpoints": 411,
+            "Damage": 124,
+            "Damage/sec": 124
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 776,
+            "Damage": 411,
+            "Damage/sec": 256
+        },
+        "Hog Rider": {
+            "Hitpoints": 968,
+            "Damage": 181,
+            "Damage/sec": 113
+        },
+        "Battle Ram": {
+            "Hitpoints": 520,
+            "Damage": 163,
+            "Charge Damage": 326
+        },
+        "Zappies": {
+            "Hitpoints": 302,
+            "Damage": 66,
+            "Damage/sec": 31
+        },
+        "Flying Machine": {
+            "Hitpoints": 350,
+            "Damage": 98,
+            "Damage/sec": 89
+        },
+        "Battle Healer": {
+            "Hitpoints": 980,
+            "Damage": 84,
+            "Damage/sec": 56
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 303,
+            "Area Damage": 91,
+            "Damage/sec": 47
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {},
+        "Guards": {},
+        "Mega Minion": {
+            "Hitpoints": 477,
+            "Damage": 177,
+            "Damage/sec": 110
+        },
+        "Dart Goblin": {
+            "Hitpoints": 148,
+            "Damage": 75,
+            "Damage/sec": 107
+        },
+        "Elixir Golem": {
+            "Hitpoints": 822,
+            "Damage": 145,
+            "Damage/sec": 111
+        },
+        "Knight": {
+            "Hitpoints": 950,
+            "Damage": 115,
+            "Damage/sec": 95
+        },
+        "Archers": {
+            "Hitpoints": 173,
+            "Damage": 61,
+            "Damage/sec": 55
+        },
+        "Minions": {
+            "Hitpoints": 131,
+            "Damage": 58,
+            "Damage/sec": 58
+        },
+        "Goblin Gang": {
+            "Hitpoints": 115,
+            "Damage": 68,
+            "Damage/sec": 61
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 303
+        },
+        "Firecracker": {
+            "Hitpoints": 173,
+            "Area Damage": 36,
+            "Damage/sec": 12
+        },
+        "Wall Breakers": {},
+        "Ice Golem": {
+            "Hitpoints": 683,
+            "Damage": 48,
+            "Damage/sec": 19,
+            "Death Damage": 48
+        },
+        "Goblins": {
+            "Hitpoints": 115,
+            "Damage": 68,
+            "Damage/sec": 61
+        },
+        "Bomber": {
+            "Hitpoints": 189,
+            "Area Damage": 127,
+            "Damage/sec": 70
+        },
+        "Spear Goblins": {
+            "Hitpoints": 75,
+            "Damage": 46,
+            "Damage/sec": 27
+        },
+        "Bats": {
+            "Hitpoints": 46,
+            "Damage": 46,
+            "Damage/sec": 35
+        },
+        "Skeletons": {
+            "Hitpoints": 46,
+            "Damage": 46,
+            "Damage/sec": 46
+        },
+        "Ice Spirit": {
+            "Hitpoints": 131,
+            "Area Damage": 62
+        },
+        "Fire Spirit": {
+            "Hitpoints": 131,
+            "Area Damage": 129
+        },
+        "Electro Spirit": {
+            "Hitpoints": 131,
+            "Damage": 56
+        }
+    },
+    "lvl.6": {
+        "Three Musketeers": {
+            "Hitpoints": 452,
+            "Damage": 136,
+            "Damage/sec": 136
+        },
+        "Golem": {
+            "Hitpoints": 3200,
+            "Damage": 195,
+            "Damage/sec": 78,
+            "Death Damage": 140
+        },
+        "Royal Recruits": {
+            "Hitpoints": 332,
+            "Shield Hitpoints": 150,
+            "Damage": 83,
+            "Damage/sec": 63
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {
+            "Hitpoints": 2350,
+            "Damage": 510,
+            "Damage/sec": 283
+        },
+        "Mega Knight": {},
+        "Electro Giant": {
+            "Hitpoints": 2410,
+            "Damage": 102,
+            "Damage/sec": 48
+        },
+        "Sparky": {},
+        "Giant Skeleton": {
+            "Hitpoints": 2250,
+            "Damage": 167,
+            "Damage/sec": 119
+        },
+        "Goblin Giant": {
+            "Hitpoints": 1967,
+            "Damage": 110,
+            "Damage/sec": 73
+        },
+        "Royal Giant": {
+            "Hitpoints": 1920,
+            "Damage": 192,
+            "Damage/sec": 112
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 838,
+            "Damage": 240,
+            "Damage/sec": 171
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {
+            "Hitpoints": 1050,
+            "Damage": 400,
+            "Damage/sec": 200
+        },
+        "Witch": {
+            "Hitpoints": 524,
+            "Area Damage": 84,
+            "Damage/sec": 76
+        },
+        "Prince": {
+            "Hitpoints": 1200,
+            "Damage": 245,
+            "Damage/sec": 175,
+            "Charge Damage": 490
+        },
+        "Bowler": {
+            "Hitpoints": 1300,
+            "Area Damage": 180,
+            "Damage/sec": 72
+        },
+        "Executioner": {
+            "Hitpoints": 800,
+            "Area Damage": 106,
+            "Damage/sec": 44
+        },
+        "Cannon Cart": {
+            "Hitpoints": 558,
+            "Damage": 133,
+            "Damage/sec": 133
+        },
+        "Electro Dragon": {
+            "Hitpoints": 594,
+            "Damage": 120,
+            "Damage/sec": 57
+        },
+        "Giant": {
+            "Hitpoints": 2566,
+            "Damage": 159,
+            "Damage/sec": 106
+        },
+        "Royal Hogs": {
+            "Hitpoints": 525,
+            "Damage": 46,
+            "Damage/sec": 38
+        },
+        "Wizard": {
+            "Hitpoints": 452,
+            "Area Damage": 176,
+            "Damage/sec": 125
+        },
+        "Barbarians": {
+            "Hitpoints": 419,
+            "Damage": 120,
+            "Damage/sec": 92
+        },
+        "Minion Horde": {
+            "Hitpoints": 144,
+            "Damage": 64,
+            "Damage/sec": 64
+        },
+        "Rascals": {
+            "Hitpoints": 1144,
+            "Damage": 83,
+            "Damage/sec": 55
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {
+            "Hitpoints": 720,
+            "Area Damage": 100,
+            "Damage/sec": 66
+        },
+        "Dark Prince": {
+            "Hitpoints": 750,
+            "Shield Hitpoints": 150,
+            "Area Damage": 155,
+            "Damage/sec": 119,
+            "Charge Damage": 310
+        },
+        "Hunter": {
+            "Hitpoints": 524,
+            "Damage": 53,
+            "Damage/sec": 24
+        },
+        "Valkyrie": {
+            "Hitpoints": 1197,
+            "Area Damage": 167,
+            "Damage/sec": 111
+        },
+        "Musketeer": {
+            "Hitpoints": 452,
+            "Damage": 136,
+            "Damage/sec": 136
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 853,
+            "Damage": 452,
+            "Damage/sec": 282
+        },
+        "Hog Rider": {
+            "Hitpoints": 1064,
+            "Damage": 199,
+            "Damage/sec": 124
+        },
+        "Battle Ram": {
+            "Hitpoints": 571,
+            "Damage": 179,
+            "Charge Damage": 359
+        },
+        "Zappies": {
+            "Hitpoints": 332,
+            "Damage": 73,
+            "Damage/sec": 34
+        },
+        "Flying Machine": {
+            "Hitpoints": 385,
+            "Damage": 107,
+            "Damage/sec": 97
+        },
+        "Battle Healer": {
+            "Hitpoints": 1077,
+            "Damage": 93,
+            "Damage/sec": 62
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 332,
+            "Area Damage": 100,
+            "Damage/sec": 52
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {
+            "Hitpoints": 51,
+            "Damage": 51,
+            "Damage/sec": 51
+        },
+        "Guards": {
+            "Hitpoints": 51,
+            "Shield Hitpoints": 150,
+            "Damage": 76,
+            "Damage/sec": 76
+        },
+        "Mega Minion": {
+            "Hitpoints": 525,
+            "Damage": 195,
+            "Damage/sec": 121
+        },
+        "Dart Goblin": {
+            "Hitpoints": 163,
+            "Damage": 82,
+            "Damage/sec": 117
+        },
+        "Elixir Golem": {
+            "Hitpoints": 904,
+            "Damage": 159,
+            "Damage/sec": 122
+        },
+        "Knight": {
+            "Hitpoints": 1041,
+            "Damage": 126,
+            "Damage/sec": 105
+        },
+        "Archers": {
+            "Hitpoints": 190,
+            "Damage": 67,
+            "Damage/sec": 60
+        },
+        "Minions": {
+            "Hitpoints": 144,
+            "Damage": 64,
+            "Damage/sec": 64
+        },
+        "Goblin Gang": {
+            "Hitpoints": 126,
+            "Damage": 75,
+            "Damage/sec": 68
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 332
+        },
+        "Firecracker": {
+            "Hitpoints": 190,
+            "Area Damage": 40,
+            "Damage/sec": 13
+        },
+        "Wall Breakers": {
+            "Hitpoints": 207,
+            "Area Damage": 245
+        },
+        "Ice Golem": {
+            "Hitpoints": 751,
+            "Damage": 53,
+            "Damage/sec": 21,
+            "Death Damage": 53
+        },
+        "Goblins": {
+            "Hitpoints": 126,
+            "Damage": 75,
+            "Damage/sec": 68
+        },
+        "Bomber": {
+            "Hitpoints": 208,
+            "Area Damage": 139,
+            "Damage/sec": 77
+        },
+        "Spear Goblins": {
+            "Hitpoints": 83,
+            "Damage": 51,
+            "Damage/sec": 30
+        },
+        "Bats": {
+            "Hitpoints": 51,
+            "Damage": 51,
+            "Damage/sec": 39
+        },
+        "Skeletons": {
+            "Hitpoints": 51,
+            "Damage": 51,
+            "Damage/sec": 51
+        },
+        "Ice Spirit": {
+            "Hitpoints": 144,
+            "Area Damage": 68
+        },
+        "Fire Spirit": {
+            "Hitpoints": 144,
+            "Area Damage": 142
+        },
+        "Electro Spirit": {
+            "Hitpoints": 144,
+            "Damage": 62
+        }
+    },
+    "lvl.7": {
+        "Three Musketeers": {
+            "Hitpoints": 496,
+            "Damage": 150,
+            "Damage/sec": 150
+        },
+        "Golem": {
+            "Hitpoints": 3520,
+            "Damage": 214,
+            "Damage/sec": 85,
+            "Death Damage": 154
+        },
+        "Royal Recruits": {
+            "Hitpoints": 366,
+            "Shield Hitpoints": 165,
+            "Damage": 91,
+            "Damage/sec": 70
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {
+            "Hitpoints": 2585,
+            "Damage": 561,
+            "Damage/sec": 311
+        },
+        "Mega Knight": {},
+        "Electro Giant": {
+            "Hitpoints": 2651,
+            "Damage": 112,
+            "Damage/sec": 53
+        },
+        "Sparky": {},
+        "Giant Skeleton": {
+            "Hitpoints": 2475,
+            "Damage": 183,
+            "Damage/sec": 130
+        },
+        "Goblin Giant": {
+            "Hitpoints": 2163,
+            "Damage": 121,
+            "Damage/sec": 80
+        },
+        "Royal Giant": {
+            "Hitpoints": 2112,
+            "Damage": 211,
+            "Damage/sec": 124
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 922,
+            "Damage": 264,
+            "Damage/sec": 188
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {
+            "Hitpoints": 1155,
+            "Damage": 440,
+            "Damage/sec": 220
+        },
+        "Witch": {
+            "Hitpoints": 576,
+            "Area Damage": 92,
+            "Damage/sec": 83
+        },
+        "Prince": {
+            "Hitpoints": 1320,
+            "Damage": 269,
+            "Damage/sec": 192,
+            "Charge Damage": 539
+        },
+        "Bowler": {
+            "Hitpoints": 1430,
+            "Area Damage": 198,
+            "Damage/sec": 79
+        },
+        "Executioner": {
+            "Hitpoints": 880,
+            "Area Damage": 116,
+            "Damage/sec": 48
+        },
+        "Cannon Cart": {
+            "Hitpoints": 613,
+            "Damage": 146,
+            "Damage/sec": 146
+        },
+        "Electro Dragon": {
+            "Hitpoints": 653,
+            "Damage": 132,
+            "Damage/sec": 62
+        },
+        "Giant": {
+            "Hitpoints": 2817,
+            "Damage": 175,
+            "Damage/sec": 116
+        },
+        "Royal Hogs": {
+            "Hitpoints": 576,
+            "Damage": 51,
+            "Damage/sec": 42
+        },
+        "Wizard": {
+            "Hitpoints": 496,
+            "Area Damage": 194,
+            "Damage/sec": 138
+        },
+        "Barbarians": {
+            "Hitpoints": 461,
+            "Damage": 132,
+            "Damage/sec": 101
+        },
+        "Minion Horde": {
+            "Hitpoints": 158,
+            "Damage": 70,
+            "Damage/sec": 70
+        },
+        "Rascals": {
+            "Hitpoints": 1258,
+            "Damage": 91,
+            "Damage/sec": 60
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {
+            "Hitpoints": 792,
+            "Area Damage": 110,
+            "Damage/sec": 73
+        },
+        "Dark Prince": {
+            "Hitpoints": 825,
+            "Shield Hitpoints": 165,
+            "Area Damage": 170,
+            "Damage/sec": 130,
+            "Charge Damage": 341
+        },
+        "Hunter": {
+            "Hitpoints": 576,
+            "Damage": 58,
+            "Damage/sec": 26
+        },
+        "Valkyrie": {
+            "Hitpoints": 1314,
+            "Area Damage": 183,
+            "Damage/sec": 122
+        },
+        "Musketeer": {
+            "Hitpoints": 496,
+            "Damage": 150,
+            "Damage/sec": 150
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 937,
+            "Damage": 496,
+            "Damage/sec": 310
+        },
+        "Hog Rider": {
+            "Hitpoints": 1168,
+            "Damage": 219,
+            "Damage/sec": 136
+        },
+        "Battle Ram": {
+            "Hitpoints": 627,
+            "Damage": 197,
+            "Charge Damage": 394
+        },
+        "Zappies": {
+            "Hitpoints": 365,
+            "Damage": 80,
+            "Damage/sec": 38
+        },
+        "Flying Machine": {
+            "Hitpoints": 423,
+            "Damage": 118,
+            "Damage/sec": 107
+        },
+        "Battle Healer": {
+            "Hitpoints": 1182,
+            "Damage": 102,
+            "Damage/sec": 68
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 366,
+            "Area Damage": 110,
+            "Damage/sec": 57
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {
+            "Hitpoints": 56,
+            "Damage": 56,
+            "Damage/sec": 56
+        },
+        "Guards": {
+            "Hitpoints": 56,
+            "Shield Hitpoints": 165,
+            "Damage": 83,
+            "Damage/sec": 83
+        },
+        "Mega Minion": {
+            "Hitpoints": 576,
+            "Damage": 214,
+            "Damage/sec": 133
+        },
+        "Dart Goblin": {
+            "Hitpoints": 179,
+            "Damage": 90,
+            "Damage/sec": 128
+        },
+        "Elixir Golem": {
+            "Hitpoints": 992,
+            "Damage": 175,
+            "Damage/sec": 134
+        },
+        "Knight": {
+            "Hitpoints": 1145,
+            "Damage": 139,
+            "Damage/sec": 115
+        },
+        "Archers": {
+            "Hitpoints": 209,
+            "Damage": 73,
+            "Damage/sec": 66
+        },
+        "Minions": {
+            "Hitpoints": 158,
+            "Damage": 70,
+            "Damage/sec": 70
+        },
+        "Goblin Gang": {
+            "Hitpoints": 139,
+            "Damage": 82,
+            "Damage/sec": 74
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 366
+        },
+        "Firecracker": {
+            "Hitpoints": 209,
+            "Area Damage": 44,
+            "Damage/sec": 14
+        },
+        "Wall Breakers": {
+            "Hitpoints": 227,
+            "Area Damage": 269
+        },
+        "Ice Golem": {
+            "Hitpoints": 824,
+            "Damage": 58,
+            "Damage/sec": 23,
+            "Death Damage": 58
+        },
+        "Goblins": {
+            "Hitpoints": 139,
+            "Damage": 82,
+            "Damage/sec": 74
+        },
+        "Bomber": {
+            "Hitpoints": 228,
+            "Area Damage": 153,
+            "Damage/sec": 85
+        },
+        "Spear Goblins": {
+            "Hitpoints": 91,
+            "Damage": 56,
+            "Damage/sec": 32
+        },
+        "Bats": {
+            "Hitpoints": 56,
+            "Damage": 56,
+            "Damage/sec": 43
+        },
+        "Skeletons": {
+            "Hitpoints": 56,
+            "Damage": 56,
+            "Damage/sec": 56
+        },
+        "Ice Spirit": {
+            "Hitpoints": 158,
+            "Area Damage": 75
+        },
+        "Fire Spirit": {
+            "Hitpoints": 158,
+            "Area Damage": 156
+        },
+        "Electro Spirit": {
+            "Hitpoints": 158,
+            "Damage": 68
+        }
+    },
+    "lvl.8": {
+        "Three Musketeers": {
+            "Hitpoints": 544,
+            "Damage": 164,
+            "Damage/sec": 164
+        },
+        "Golem": {
+            "Hitpoints": 3872,
+            "Damage": 235,
+            "Damage/sec": 94,
+            "Death Damage": 169
+        },
+        "Royal Recruits": {
+            "Hitpoints": 401,
+            "Shield Hitpoints": 181,
+            "Damage": 100,
+            "Damage/sec": 76
+        },
+        "Lava Hound": {},
+        "P.E.K.K.A": {
+            "Hitpoints": 2843,
+            "Damage": 617,
+            "Damage/sec": 342
+        },
+        "Mega Knight": {},
+        "Electro Giant": {
+            "Hitpoints": 2916,
+            "Damage": 123,
+            "Damage/sec": 58
+        },
+        "Sparky": {},
+        "Giant Skeleton": {
+            "Hitpoints": 2722,
+            "Damage": 202,
+            "Damage/sec": 144
+        },
+        "Goblin Giant": {
+            "Hitpoints": 2380,
+            "Damage": 133,
+            "Damage/sec": 88
+        },
+        "Royal Giant": {
+            "Hitpoints": 2316,
+            "Damage": 231,
+            "Damage/sec": 135
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1011,
+            "Damage": 289,
+            "Damage/sec": 206
+        },
+        "Archer Queen": {},
+        "Ram Rider": {},
+        "Balloon": {
+            "Hitpoints": 1270,
+            "Damage": 484,
+            "Damage/sec": 242
+        },
+        "Witch": {
+            "Hitpoints": 634,
+            "Area Damage": 101,
+            "Damage/sec": 91
+        },
+        "Prince": {
+            "Hitpoints": 1452,
+            "Damage": 296,
+            "Damage/sec": 211,
+            "Charge Damage": 592
+        },
+        "Bowler": {
+            "Hitpoints": 1573,
+            "Area Damage": 217,
+            "Damage/sec": 86
+        },
+        "Executioner": {
+            "Hitpoints": 968,
+            "Area Damage": 128,
+            "Damage/sec": 53
+        },
+        "Cannon Cart": {
+            "Hitpoints": 675,
+            "Damage": 160,
+            "Damage/sec": 160
+        },
+        "Electro Dragon": {
+            "Hitpoints": 718,
+            "Damage": 145,
+            "Damage/sec": 69
+        },
+        "Giant": {
+            "Hitpoints": 3088,
+            "Damage": 192,
+            "Damage/sec": 128
+        },
+        "Royal Hogs": {
+            "Hitpoints": 632,
+            "Damage": 56,
+            "Damage/sec": 46
+        },
+        "Wizard": {
+            "Hitpoints": 544,
+            "Area Damage": 212,
+            "Damage/sec": 151
+        },
+        "Barbarians": {
+            "Hitpoints": 505,
+            "Damage": 144,
+            "Damage/sec": 110
+        },
+        "Minion Horde": {
+            "Hitpoints": 173,
+            "Damage": 77,
+            "Damage/sec": 77
+        },
+        "Rascals": {
+            "Hitpoints": 1379,
+            "Damage": 100,
+            "Damage/sec": 66
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {},
+        "Inferno Dragon": {},
+        "Night Witch": {},
+        "Magic Archer": {},
+        "Mother Witch": {},
+        "Baby Dragon": {
+            "Hitpoints": 871,
+            "Area Damage": 121,
+            "Damage/sec": 80
+        },
+        "Dark Prince": {
+            "Hitpoints": 907,
+            "Shield Hitpoints": 181,
+            "Area Damage": 187,
+            "Damage/sec": 143,
+            "Charge Damage": 375
+        },
+        "Hunter": {
+            "Hitpoints": 634,
+            "Damage": 64,
+            "Damage/sec": 29
+        },
+        "Valkyrie": {
+            "Hitpoints": 1440,
+            "Area Damage": 201,
+            "Damage/sec": 134
+        },
+        "Musketeer": {
+            "Hitpoints": 544,
+            "Damage": 164,
+            "Damage/sec": 164
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1027,
+            "Damage": 544,
+            "Damage/sec": 340
+        },
+        "Hog Rider": {
+            "Hitpoints": 1280,
+            "Damage": 240,
+            "Damage/sec": 150
+        },
+        "Battle Ram": {
+            "Hitpoints": 688,
+            "Damage": 216,
+            "Charge Damage": 432
+        },
+        "Zappies": {
+            "Hitpoints": 400,
+            "Damage": 88,
+            "Damage/sec": 41
+        },
+        "Flying Machine": {
+            "Hitpoints": 464,
+            "Damage": 129,
+            "Damage/sec": 117
+        },
+        "Battle Healer": {
+            "Hitpoints": 1296,
+            "Damage": 112,
+            "Damage/sec": 74
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 401,
+            "Area Damage": 121,
+            "Damage/sec": 63
+        },
+        "Ice Wizard": {},
+        "Princess": {},
+        "Miner": {},
+        "Bandit": {},
+        "Royal Ghost": {},
+        "Fisherman": {},
+        "Skeleton Army": {
+            "Hitpoints": 61,
+            "Damage": 61,
+            "Damage/sec": 61
+        },
+        "Guards": {
+            "Hitpoints": 61,
+            "Shield Hitpoints": 181,
+            "Damage": 91,
+            "Damage/sec": 91
+        },
+        "Mega Minion": {
+            "Hitpoints": 632,
+            "Damage": 235,
+            "Damage/sec": 146
+        },
+        "Dart Goblin": {
+            "Hitpoints": 196,
+            "Damage": 99,
+            "Damage/sec": 141
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1088,
+            "Damage": 192,
+            "Damage/sec": 147
+        },
+        "Knight": {
+            "Hitpoints": 1256,
+            "Damage": 152,
+            "Damage/sec": 126
+        },
+        "Archers": {
+            "Hitpoints": 229,
+            "Damage": 81,
+            "Damage/sec": 73
+        },
+        "Minions": {
+            "Hitpoints": 173,
+            "Damage": 77,
+            "Damage/sec": 77
+        },
+        "Goblin Gang": {
+            "Hitpoints": 152,
+            "Damage": 90,
+            "Damage/sec": 81
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 401
+        },
+        "Firecracker": {
+            "Hitpoints": 229,
+            "Area Damage": 48,
+            "Damage/sec": 16
+        },
+        "Wall Breakers": {
+            "Hitpoints": 250,
+            "Area Damage": 296
+        },
+        "Ice Golem": {
+            "Hitpoints": 904,
+            "Damage": 64,
+            "Damage/sec": 25,
+            "Death Damage": 64
+        },
+        "Goblins": {
+            "Hitpoints": 152,
+            "Damage": 90,
+            "Damage/sec": 81
+        },
+        "Bomber": {
+            "Hitpoints": 250,
+            "Area Damage": 167,
+            "Damage/sec": 92
+        },
+        "Spear Goblins": {
+            "Hitpoints": 100,
+            "Damage": 61,
+            "Damage/sec": 35
+        },
+        "Bats": {
+            "Hitpoints": 61,
+            "Damage": 61,
+            "Damage/sec": 46
+        },
+        "Skeletons": {
+            "Hitpoints": 61,
+            "Damage": 61,
+            "Damage/sec": 61
+        },
+        "Ice Spirit": {
+            "Hitpoints": 173,
+            "Area Damage": 82
+        },
+        "Fire Spirit": {
+            "Hitpoints": 173,
+            "Area Damage": 171
+        },
+        "Electro Spirit": {
+            "Hitpoints": 173,
+            "Damage": 75
+        }
+    },
+    "lvl.9": {
+        "Three Musketeers": {
+            "Hitpoints": 598,
+            "Damage": 181,
+            "Damage/sec": 181
+        },
+        "Golem": {
+            "Hitpoints": 4256,
+            "Damage": 259,
+            "Damage/sec": 103,
+            "Death Damage": 186
+        },
+        "Royal Recruits": {
+            "Hitpoints": 440,
+            "Shield Hitpoints": 199,
+            "Damage": 110,
+            "Damage/sec": 84
+        },
+        "Lava Hound": {
+            "Hitpoints": 3150,
+            "Damage": 45,
+            "Damage/sec": 34
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 3125,
+            "Damage": 678,
+            "Damage/sec": 376
+        },
+        "Mega Knight": {
+            "Hitpoints": 3300,
+            "Area Damage": 222,
+            "Damage/sec": 130,
+            "Dash Damage": 444
+        },
+        "Electro Giant": {
+            "Hitpoints": 3205,
+            "Damage": 135,
+            "Damage/sec": 64
+        },
+        "Sparky": {
+            "Hitpoints": 1200,
+            "Area Damage": 1100,
+            "Damage/sec": 275
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 2992,
+            "Damage": 222,
+            "Damage/sec": 158
+        },
+        "Goblin Giant": {
+            "Hitpoints": 2616,
+            "Damage": 146,
+            "Damage/sec": 97
+        },
+        "Royal Giant": {
+            "Hitpoints": 2544,
+            "Damage": 254,
+            "Damage/sec": 149
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1110,
+            "Damage": 318,
+            "Damage/sec": 227
+        },
+        "Archer Queen": {},
+        "Ram Rider": {
+            "Hitpoints": 1461,
+            "Damage": 220,
+            "Damage/sec": 122,
+            "Charge Damage": 440
+        },
+        "Balloon": {
+            "Hitpoints": 1396,
+            "Damage": 532,
+            "Damage/sec": 266
+        },
+        "Witch": {
+            "Hitpoints": 696,
+            "Area Damage": 111,
+            "Damage/sec": 100
+        },
+        "Prince": {
+            "Hitpoints": 1596,
+            "Damage": 325,
+            "Damage/sec": 232,
+            "Charge Damage": 651
+        },
+        "Bowler": {
+            "Hitpoints": 1729,
+            "Area Damage": 239,
+            "Damage/sec": 95
+        },
+        "Executioner": {
+            "Hitpoints": 1064,
+            "Area Damage": 140,
+            "Damage/sec": 58
+        },
+        "Cannon Cart": {
+            "Hitpoints": 742,
+            "Damage": 176,
+            "Damage/sec": 176
+        },
+        "Electro Dragon": {
+            "Hitpoints": 790,
+            "Damage": 159,
+            "Damage/sec": 75
+        },
+        "Giant": {
+            "Hitpoints": 3396,
+            "Damage": 211,
+            "Damage/sec": 140
+        },
+        "Royal Hogs": {
+            "Hitpoints": 695,
+            "Damage": 61,
+            "Damage/sec": 50
+        },
+        "Wizard": {
+            "Hitpoints": 598,
+            "Area Damage": 234,
+            "Damage/sec": 167
+        },
+        "Barbarians": {
+            "Hitpoints": 555,
+            "Damage": 159,
+            "Damage/sec": 122
+        },
+        "Minion Horde": {
+            "Hitpoints": 190,
+            "Damage": 84,
+            "Damage/sec": 84
+        },
+        "Rascals": {
+            "Hitpoints": 1515,
+            "Damage": 110,
+            "Damage/sec": 73
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {
+            "Hitpoints": 1060,
+            "Damage": 200,
+            "Damage/sec": 250
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1070,
+            "Damage": 30,
+            "Damage/sec": 75
+        },
+        "Night Witch": {
+            "Hitpoints": 750,
+            "Damage": 260,
+            "Damage/sec": 200
+        },
+        "Magic Archer": {
+            "Hitpoints": 440,
+            "Area Damage": 111,
+            "Damage/sec": 100
+        },
+        "Mother Witch": {
+            "Hitpoints": 440,
+            "Damage": 110,
+            "Damage/sec": 110
+        },
+        "Baby Dragon": {
+            "Hitpoints": 957,
+            "Area Damage": 133,
+            "Damage/sec": 88
+        },
+        "Dark Prince": {
+            "Hitpoints": 997,
+            "Shield Hitpoints": 199,
+            "Area Damage": 206,
+            "Damage/sec": 158,
+            "Charge Damage": 412
+        },
+        "Hunter": {
+            "Hitpoints": 696,
+            "Damage": 70,
+            "Damage/sec": 31
+        },
+        "Valkyrie": {
+            "Hitpoints": 1584,
+            "Area Damage": 221,
+            "Damage/sec": 147
+        },
+        "Musketeer": {
+            "Hitpoints": 598,
+            "Damage": 181,
+            "Damage/sec": 181
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1129,
+            "Damage": 598,
+            "Damage/sec": 373
+        },
+        "Hog Rider": {
+            "Hitpoints": 1408,
+            "Damage": 264,
+            "Damage/sec": 165
+        },
+        "Battle Ram": {
+            "Hitpoints": 756,
+            "Damage": 237,
+            "Charge Damage": 475
+        },
+        "Zappies": {
+            "Hitpoints": 440,
+            "Damage": 96,
+            "Damage/sec": 45
+        },
+        "Flying Machine": {
+            "Hitpoints": 510,
+            "Damage": 142,
+            "Damage/sec": 129
+        },
+        "Battle Healer": {
+            "Hitpoints": 1425,
+            "Damage": 123,
+            "Damage/sec": 82
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 440,
+            "Area Damage": 133,
+            "Damage/sec": 70
+        },
+        "Ice Wizard": {
+            "Area Damage": 33,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 216,
+            "Area Damage": 140,
+            "Damage/sec": 46
+        },
+        "Miner": {
+            "Hitpoints": 1000,
+            "Damage": 160,
+            "Crown Tower Damage": 48,
+            "Damage/sec": 133
+        },
+        "Bandit": {
+            "Hitpoints": 750,
+            "Damage": 160,
+            "Damage/sec": 160,
+            "Dash Damage": 320
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1000,
+            "Area Damage": 216,
+            "Damage/sec": 120
+        },
+        "Fisherman": {
+            "Hitpoints": 720,
+            "Damage": 160,
+            "Damage/sec": 123
+        },
+        "Skeleton Army": {
+            "Hitpoints": 67,
+            "Damage": 67,
+            "Damage/sec": 67
+        },
+        "Guards": {
+            "Hitpoints": 67,
+            "Shield Hitpoints": 199,
+            "Damage": 101,
+            "Damage/sec": 101
+        },
+        "Mega Minion": {
+            "Hitpoints": 695,
+            "Damage": 258,
+            "Damage/sec": 161
+        },
+        "Dart Goblin": {
+            "Hitpoints": 216,
+            "Damage": 109,
+            "Damage/sec": 155
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1196,
+            "Damage": 211,
+            "Damage/sec": 162
+        },
+        "Knight": {
+            "Hitpoints": 1380,
+            "Damage": 167,
+            "Damage/sec": 139
+        },
+        "Archers": {
+            "Hitpoints": 252,
+            "Damage": 89,
+            "Damage/sec": 80
+        },
+        "Minions": {
+            "Hitpoints": 190,
+            "Damage": 84,
+            "Damage/sec": 84
+        },
+        "Goblin Gang": {
+            "Hitpoints": 167,
+            "Damage": 99,
+            "Damage/sec": 90
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 440
+        },
+        "Firecracker": {
+            "Hitpoints": 252,
+            "Area Damage": 53,
+            "Damage/sec": 17
+        },
+        "Wall Breakers": {
+            "Hitpoints": 275,
+            "Area Damage": 325
+        },
+        "Ice Golem": {
+            "Hitpoints": 994,
+            "Damage": 70,
+            "Damage/sec": 28,
+            "Death Damage": 70
+        },
+        "Goblins": {
+            "Hitpoints": 167,
+            "Damage": 99,
+            "Damage/sec": 90
+        },
+        "Bomber": {
+            "Hitpoints": 275,
+            "Area Damage": 184,
+            "Damage/sec": 102
+        },
+        "Spear Goblins": {
+            "Hitpoints": 110,
+            "Damage": 67,
+            "Damage/sec": 39
+        },
+        "Bats": {
+            "Hitpoints": 67,
+            "Damage": 67,
+            "Damage/sec": 51
+        },
+        "Skeletons": {
+            "Hitpoints": 67,
+            "Damage": 67,
+            "Damage/sec": 67
+        },
+        "Ice Spirit": {
+            "Hitpoints": 190,
+            "Area Damage": 91
+        },
+        "Fire Spirit": {
+            "Hitpoints": 190,
+            "Area Damage": 188
+        },
+        "Electro Spirit": {
+            "Hitpoints": 190,
+            "Damage": 82
+        }
+    },
+    "lvl.10": {
+        "Three Musketeers": {
+            "Hitpoints": 656,
+            "Damage": 198,
+            "Damage/sec": 198
+        },
+        "Golem": {
+            "Hitpoints": 4672,
+            "Damage": 284,
+            "Damage/sec": 113,
+            "Death Damage": 204
+        },
+        "Royal Recruits": {
+            "Hitpoints": 484,
+            "Shield Hitpoints": 219,
+            "Damage": 121,
+            "Damage/sec": 93
+        },
+        "Lava Hound": {
+            "Hitpoints": 3465,
+            "Damage": 49,
+            "Damage/sec": 37
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 3431,
+            "Damage": 744,
+            "Damage/sec": 413
+        },
+        "Mega Knight": {
+            "Hitpoints": 3630,
+            "Area Damage": 244,
+            "Damage/sec": 143,
+            "Dash Damage": 488
+        },
+        "Electro Giant": {
+            "Hitpoints": 3518,
+            "Damage": 148,
+            "Damage/sec": 70
+        },
+        "Sparky": {
+            "Hitpoints": 1320,
+            "Area Damage": 1210,
+            "Damage/sec": 302
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 3285,
+            "Damage": 243,
+            "Damage/sec": 173
+        },
+        "Goblin Giant": {
+            "Hitpoints": 2871,
+            "Damage": 160,
+            "Damage/sec": 106
+        },
+        "Royal Giant": {
+            "Hitpoints": 2796,
+            "Damage": 279,
+            "Damage/sec": 164
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1220,
+            "Damage": 349,
+            "Damage/sec": 249
+        },
+        "Archer Queen": {},
+        "Ram Rider": {
+            "Hitpoints": 1607,
+            "Damage": 242,
+            "Damage/sec": 134,
+            "Charge Damage": 484
+        },
+        "Balloon": {
+            "Hitpoints": 1533,
+            "Damage": 584,
+            "Damage/sec": 292
+        },
+        "Witch": {
+            "Hitpoints": 765,
+            "Area Damage": 122,
+            "Damage/sec": 110
+        },
+        "Prince": {
+            "Hitpoints": 1752,
+            "Damage": 357,
+            "Damage/sec": 255,
+            "Charge Damage": 715
+        },
+        "Bowler": {
+            "Hitpoints": 1898,
+            "Area Damage": 262,
+            "Damage/sec": 104
+        },
+        "Executioner": {
+            "Hitpoints": 1168,
+            "Area Damage": 154,
+            "Damage/sec": 64
+        },
+        "Cannon Cart": {
+            "Hitpoints": 814,
+            "Damage": 194,
+            "Damage/sec": 194
+        },
+        "Electro Dragon": {
+            "Hitpoints": 867,
+            "Damage": 175,
+            "Damage/sec": 83
+        },
+        "Giant": {
+            "Hitpoints": 3724,
+            "Damage": 231,
+            "Damage/sec": 154
+        },
+        "Royal Hogs": {
+            "Hitpoints": 762,
+            "Damage": 67,
+            "Damage/sec": 55
+        },
+        "Wizard": {
+            "Hitpoints": 656,
+            "Area Damage": 256,
+            "Damage/sec": 182
+        },
+        "Barbarians": {
+            "Hitpoints": 610,
+            "Damage": 174,
+            "Damage/sec": 133
+        },
+        "Minion Horde": {
+            "Hitpoints": 209,
+            "Damage": 93,
+            "Damage/sec": 93
+        },
+        "Rascals": {
+            "Hitpoints": 1665,
+            "Damage": 121,
+            "Damage/sec": 80
+        },
+        "Skeleton King": {},
+        "Golden Knight": {},
+        "Mighty Miner": {},
+        "Lumberjack": {
+            "Hitpoints": 1166,
+            "Damage": 220,
+            "Damage/sec": 275
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1177,
+            "Damage": 33,
+            "Damage/sec": 82
+        },
+        "Night Witch": {
+            "Hitpoints": 825,
+            "Damage": 286,
+            "Damage/sec": 220
+        },
+        "Magic Archer": {
+            "Hitpoints": 484,
+            "Area Damage": 122,
+            "Damage/sec": 110
+        },
+        "Mother Witch": {
+            "Hitpoints": 484,
+            "Damage": 121,
+            "Damage/sec": 121
+        },
+        "Baby Dragon": {
+            "Hitpoints": 1051,
+            "Area Damage": 146,
+            "Damage/sec": 97
+        },
+        "Dark Prince": {
+            "Hitpoints": 1095,
+            "Shield Hitpoints": 219,
+            "Area Damage": 226,
+            "Damage/sec": 173,
+            "Charge Damage": 452
+        },
+        "Hunter": {
+            "Hitpoints": 765,
+            "Damage": 77,
+            "Damage/sec": 35
+        },
+        "Valkyrie": {
+            "Hitpoints": 1737,
+            "Area Damage": 243,
+            "Damage/sec": 162
+        },
+        "Musketeer": {
+            "Hitpoints": 656,
+            "Damage": 198,
+            "Damage/sec": 198
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1239,
+            "Damage": 656,
+            "Damage/sec": 410
+        },
+        "Hog Rider": {
+            "Hitpoints": 1544,
+            "Damage": 289,
+            "Damage/sec": 180
+        },
+        "Battle Ram": {
+            "Hitpoints": 829,
+            "Damage": 260,
+            "Charge Damage": 521
+        },
+        "Zappies": {
+            "Hitpoints": 482,
+            "Damage": 106,
+            "Damage/sec": 50
+        },
+        "Flying Machine": {
+            "Hitpoints": 559,
+            "Damage": 156,
+            "Damage/sec": 141
+        },
+        "Battle Healer": {
+            "Hitpoints": 1563,
+            "Damage": 135,
+            "Damage/sec": 90
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 484,
+            "Area Damage": 146,
+            "Damage/sec": 76
+        },
+        "Ice Wizard": {
+            "Area Damage": 36,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 237,
+            "Area Damage": 154,
+            "Damage/sec": 51
+        },
+        "Miner": {
+            "Hitpoints": 1100,
+            "Damage": 176,
+            "Crown Tower Damage": 52,
+            "Damage/sec": 146
+        },
+        "Bandit": {
+            "Hitpoints": 825,
+            "Damage": 176,
+            "Damage/sec": 176,
+            "Dash Damage": 352
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1100,
+            "Area Damage": 237,
+            "Damage/sec": 131
+        },
+        "Fisherman": {
+            "Hitpoints": 792,
+            "Damage": 176,
+            "Damage/sec": 135
+        },
+        "Skeleton Army": {
+            "Hitpoints": 74,
+            "Damage": 74,
+            "Damage/sec": 74
+        },
+        "Guards": {
+            "Hitpoints": 74,
+            "Shield Hitpoints": 219,
+            "Damage": 110,
+            "Damage/sec": 110
+        },
+        "Mega Minion": {
+            "Hitpoints": 762,
+            "Damage": 283,
+            "Damage/sec": 176
+        },
+        "Dart Goblin": {
+            "Hitpoints": 237,
+            "Damage": 119,
+            "Damage/sec": 170
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1312,
+            "Damage": 231,
+            "Damage/sec": 177
+        },
+        "Knight": {
+            "Hitpoints": 1516,
+            "Damage": 184,
+            "Damage/sec": 153
+        },
+        "Archers": {
+            "Hitpoints": 277,
+            "Damage": 97,
+            "Damage/sec": 88
+        },
+        "Minions": {
+            "Hitpoints": 209,
+            "Damage": 93,
+            "Damage/sec": 93
+        },
+        "Goblin Gang": {
+            "Hitpoints": 184,
+            "Damage": 109,
+            "Damage/sec": 99
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 484
+        },
+        "Firecracker": {
+            "Hitpoints": 277,
+            "Area Damage": 58,
+            "Damage/sec": 19
+        },
+        "Wall Breakers": {
+            "Hitpoints": 302,
+            "Area Damage": 357
+        },
+        "Ice Golem": {
+            "Hitpoints": 1090,
+            "Damage": 77,
+            "Damage/sec": 30,
+            "Death Damage": 77
+        },
+        "Goblins": {
+            "Hitpoints": 184,
+            "Damage": 109,
+            "Damage/sec": 99
+        },
+        "Bomber": {
+            "Hitpoints": 302,
+            "Area Damage": 202,
+            "Damage/sec": 112
+        },
+        "Spear Goblins": {
+            "Hitpoints": 121,
+            "Damage": 74,
+            "Damage/sec": 43
+        },
+        "Bats": {
+            "Hitpoints": 74,
+            "Damage": 74,
+            "Damage/sec": 56
+        },
+        "Skeletons": {
+            "Hitpoints": 74,
+            "Damage": 74,
+            "Damage/sec": 74
+        },
+        "Ice Spirit": {
+            "Hitpoints": 209,
+            "Area Damage": 100
+        },
+        "Fire Spirit": {
+            "Hitpoints": 209,
+            "Area Damage": 207
+        },
+        "Electro Spirit": {
+            "Hitpoints": 209,
+            "Damage": 90
+        }
+    },
+    "lvl.11": {
+        "Three Musketeers": {
+            "Hitpoints": 720,
+            "Damage": 218,
+            "Damage/sec": 218
+        },
+        "Golem": {
+            "Hitpoints": 5120,
+            "Damage": 312,
+            "Damage/sec": 124,
+            "Death Damage": 224
+        },
+        "Royal Recruits": {
+            "Hitpoints": 532,
+            "Shield Hitpoints": 240,
+            "Damage": 133,
+            "Damage/sec": 102
+        },
+        "Lava Hound": {
+            "Hitpoints": 3811,
+            "Damage": 54,
+            "Damage/sec": 41
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 3760,
+            "Damage": 816,
+            "Damage/sec": 453
+        },
+        "Mega Knight": {
+            "Hitpoints": 3993,
+            "Area Damage": 268,
+            "Damage/sec": 157,
+            "Dash Damage": 537
+        },
+        "Electro Giant": {
+            "Hitpoints": 3856,
+            "Damage": 163,
+            "Damage/sec": 77
+        },
+        "Sparky": {
+            "Hitpoints": 1452,
+            "Area Damage": 1331,
+            "Damage/sec": 332
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 3600,
+            "Damage": 267,
+            "Damage/sec": 190
+        },
+        "Goblin Giant": {
+            "Hitpoints": 3147,
+            "Damage": 176,
+            "Damage/sec": 117
+        },
+        "Royal Giant": {
+            "Hitpoints": 3072,
+            "Damage": 307,
+            "Damage/sec": 180
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1341,
+            "Damage": 384,
+            "Damage/sec": 274
+        },
+        "Archer Queen": {
+            "Hitpoints": 1000,
+            "Damage": 225,
+            "Damage/sec": 187
+        },
+        "Ram Rider": {
+            "Hitpoints": 1767,
+            "Damage": 266,
+            "Damage/sec": 147,
+            "Charge Damage": 532
+        },
+        "Balloon": {
+            "Hitpoints": 1680,
+            "Damage": 640,
+            "Damage/sec": 320
+        },
+        "Witch": {
+            "Hitpoints": 838,
+            "Area Damage": 134,
+            "Damage/sec": 121
+        },
+        "Prince": {
+            "Hitpoints": 1920,
+            "Damage": 392,
+            "Damage/sec": 280,
+            "Charge Damage": 784
+        },
+        "Bowler": {
+            "Hitpoints": 2080,
+            "Area Damage": 288,
+            "Damage/sec": 115
+        },
+        "Executioner": {
+            "Hitpoints": 1280,
+            "Area Damage": 169,
+            "Damage/sec": 70
+        },
+        "Cannon Cart": {
+            "Hitpoints": 892,
+            "Damage": 212,
+            "Damage/sec": 212
+        },
+        "Electro Dragon": {
+            "Hitpoints": 950,
+            "Damage": 192,
+            "Damage/sec": 91
+        },
+        "Giant": {
+            "Hitpoints": 4091,
+            "Damage": 254,
+            "Damage/sec": 169
+        },
+        "Royal Hogs": {
+            "Hitpoints": 837,
+            "Damage": 74,
+            "Damage/sec": 61
+        },
+        "Wizard": {
+            "Hitpoints": 720,
+            "Area Damage": 281,
+            "Damage/sec": 200
+        },
+        "Barbarians": {
+            "Hitpoints": 670,
+            "Damage": 192,
+            "Damage/sec": 147
+        },
+        "Minion Horde": {
+            "Hitpoints": 230,
+            "Damage": 102,
+            "Damage/sec": 102
+        },
+        "Rascals": {
+            "Hitpoints": 1830,
+            "Damage": 133,
+            "Damage/sec": 88
+        },
+        "Skeleton King": {
+            "Hitpoints": 2300,
+            "Area Damage": 205,
+            "Damage/sec": 128
+        },
+        "Golden Knight": {
+            "Hitpoints": 2000,
+            "Damage": 160,
+            "Damage/sec": 177,
+            "Dash Damage": 310
+        },
+        "Mighty Miner": {
+            "Hitpoints": 2400,
+            "Damage": 40,
+            "Damage/sec": 100
+        },
+        "Lumberjack": {
+            "Hitpoints": 1282,
+            "Damage": 242,
+            "Damage/sec": 302
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1294,
+            "Damage": 36,
+            "Damage/sec": 90
+        },
+        "Night Witch": {
+            "Hitpoints": 907,
+            "Damage": 314,
+            "Damage/sec": 241
+        },
+        "Magic Archer": {
+            "Hitpoints": 532,
+            "Area Damage": 134,
+            "Damage/sec": 121
+        },
+        "Mother Witch": {
+            "Hitpoints": 532,
+            "Damage": 133,
+            "Damage/sec": 133
+        },
+        "Baby Dragon": {
+            "Hitpoints": 1152,
+            "Area Damage": 160,
+            "Damage/sec": 106
+        },
+        "Dark Prince": {
+            "Hitpoints": 1200,
+            "Shield Hitpoints": 240,
+            "Area Damage": 248,
+            "Damage/sec": 190,
+            "Charge Damage": 496
+        },
+        "Hunter": {
+            "Hitpoints": 838,
+            "Damage": 84,
+            "Damage/sec": 38
+        },
+        "Valkyrie": {
+            "Hitpoints": 1908,
+            "Area Damage": 267,
+            "Damage/sec": 178
+        },
+        "Musketeer": {
+            "Hitpoints": 720,
+            "Damage": 218,
+            "Damage/sec": 218
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1361,
+            "Damage": 720,
+            "Damage/sec": 450
+        },
+        "Hog Rider": {
+            "Hitpoints": 1696,
+            "Damage": 318,
+            "Damage/sec": 198
+        },
+        "Battle Ram": {
+            "Hitpoints": 911,
+            "Damage": 286,
+            "Charge Damage": 572
+        },
+        "Zappies": {
+            "Hitpoints": 530,
+            "Damage": 116,
+            "Damage/sec": 55
+        },
+        "Flying Machine": {
+            "Hitpoints": 614,
+            "Damage": 171,
+            "Damage/sec": 155
+        },
+        "Battle Healer": {
+            "Hitpoints": 1717,
+            "Damage": 148,
+            "Damage/sec": 98
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 532,
+            "Area Damage": 161,
+            "Damage/sec": 84
+        },
+        "Ice Wizard": {
+            "Area Damage": 39,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 261,
+            "Area Damage": 169,
+            "Damage/sec": 56
+        },
+        "Miner": {
+            "Hitpoints": 1210,
+            "Damage": 193,
+            "Crown Tower Damage": 57,
+            "Damage/sec": 160
+        },
+        "Bandit": {
+            "Hitpoints": 907,
+            "Damage": 193,
+            "Damage/sec": 193,
+            "Dash Damage": 387
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1210,
+            "Area Damage": 261,
+            "Damage/sec": 145
+        },
+        "Fisherman": {
+            "Hitpoints": 871,
+            "Damage": 193,
+            "Damage/sec": 148
+        },
+        "Skeleton Army": {
+            "Hitpoints": 81,
+            "Damage": 81,
+            "Damage/sec": 81
+        },
+        "Guards": {
+            "Hitpoints": 81,
+            "Shield Hitpoints": 240,
+            "Damage": 121,
+            "Damage/sec": 121
+        },
+        "Mega Minion": {
+            "Hitpoints": 837,
+            "Damage": 311,
+            "Damage/sec": 194
+        },
+        "Dart Goblin": {
+            "Hitpoints": 260,
+            "Damage": 131,
+            "Damage/sec": 187
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1441,
+            "Damage": 254,
+            "Damage/sec": 195
+        },
+        "Knight": {
+            "Hitpoints": 1666,
+            "Damage": 202,
+            "Damage/sec": 168
+        },
+        "Archers": {
+            "Hitpoints": 304,
+            "Damage": 107,
+            "Damage/sec": 97
+        },
+        "Minions": {
+            "Hitpoints": 230,
+            "Damage": 102,
+            "Damage/sec": 102
+        },
+        "Goblin Gang": {
+            "Hitpoints": 202,
+            "Damage": 120,
+            "Damage/sec": 109
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 532
+        },
+        "Firecracker": {
+            "Hitpoints": 304,
+            "Area Damage": 64,
+            "Damage/sec": 21
+        },
+        "Wall Breakers": {
+            "Hitpoints": 331,
+            "Area Damage": 392
+        },
+        "Ice Golem": {
+            "Hitpoints": 1197,
+            "Damage": 84,
+            "Damage/sec": 33,
+            "Death Damage": 84
+        },
+        "Goblins": {
+            "Hitpoints": 202,
+            "Damage": 120,
+            "Damage/sec": 109
+        },
+        "Bomber": {
+            "Hitpoints": 332,
+            "Area Damage": 222,
+            "Damage/sec": 123
+        },
+        "Spear Goblins": {
+            "Hitpoints": 133,
+            "Damage": 81,
+            "Damage/sec": 47
+        },
+        "Bats": {
+            "Hitpoints": 81,
+            "Damage": 81,
+            "Damage/sec": 62
+        },
+        "Skeletons": {
+            "Hitpoints": 81,
+            "Damage": 81,
+            "Damage/sec": 81
+        },
+        "Ice Spirit": {
+            "Hitpoints": 230,
+            "Area Damage": 110
+        },
+        "Fire Spirit": {
+            "Hitpoints": 230,
+            "Area Damage": 227
+        },
+        "Electro Spirit": {
+            "Hitpoints": 230,
+            "Damage": 99
+        }
+    },
+    "lvl.12": {
+        "Three Musketeers": {
+            "Hitpoints": 792,
+            "Damage": 239,
+            "Damage/sec": 239
+        },
+        "Golem": {
+            "Hitpoints": 5632,
+            "Damage": 343,
+            "Damage/sec": 137,
+            "Death Damage": 246
+        },
+        "Royal Recruits": {
+            "Hitpoints": 584,
+            "Shield Hitpoints": 264,
+            "Damage": 146,
+            "Damage/sec": 112
+        },
+        "Lava Hound": {
+            "Hitpoints": 4189,
+            "Damage": 59,
+            "Damage/sec": 45
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 4136,
+            "Damage": 897,
+            "Damage/sec": 498
+        },
+        "Mega Knight": {
+            "Hitpoints": 4389,
+            "Area Damage": 295,
+            "Damage/sec": 173,
+            "Dash Damage": 590
+        },
+        "Electro Giant": {
+            "Hitpoints": 4241,
+            "Damage": 179,
+            "Damage/sec": 85
+        },
+        "Sparky": {
+            "Hitpoints": 1596,
+            "Area Damage": 1463,
+            "Damage/sec": 365
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 3960,
+            "Damage": 293,
+            "Damage/sec": 209
+        },
+        "Goblin Giant": {
+            "Hitpoints": 3461,
+            "Damage": 193,
+            "Damage/sec": 128
+        },
+        "Royal Giant": {
+            "Hitpoints": 3372,
+            "Damage": 337,
+            "Damage/sec": 198
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1472,
+            "Damage": 421,
+            "Damage/sec": 300
+        },
+        "Archer Queen": {
+            "Hitpoints": 1100,
+            "Damage": 247,
+            "Damage/sec": 205
+        },
+        "Ram Rider": {
+            "Hitpoints": 1943,
+            "Damage": 292,
+            "Damage/sec": 162,
+            "Charge Damage": 585
+        },
+        "Balloon": {
+            "Hitpoints": 1848,
+            "Damage": 704,
+            "Damage/sec": 352
+        },
+        "Witch": {
+            "Hitpoints": 922,
+            "Area Damage": 147,
+            "Damage/sec": 133
+        },
+        "Prince": {
+            "Hitpoints": 2112,
+            "Damage": 431,
+            "Damage/sec": 307,
+            "Charge Damage": 862
+        },
+        "Bowler": {
+            "Hitpoints": 2288,
+            "Area Damage": 316,
+            "Damage/sec": 126
+        },
+        "Executioner": {
+            "Hitpoints": 1408,
+            "Area Damage": 186,
+            "Damage/sec": 77
+        },
+        "Cannon Cart": {
+            "Hitpoints": 982,
+            "Damage": 234,
+            "Damage/sec": 234
+        },
+        "Electro Dragon": {
+            "Hitpoints": 1045,
+            "Damage": 211,
+            "Damage/sec": 100
+        },
+        "Giant": {
+            "Hitpoints": 4496,
+            "Damage": 279,
+            "Damage/sec": 186
+        },
+        "Royal Hogs": {
+            "Hitpoints": 920,
+            "Damage": 81,
+            "Damage/sec": 67
+        },
+        "Wizard": {
+            "Hitpoints": 792,
+            "Area Damage": 309,
+            "Damage/sec": 220
+        },
+        "Barbarians": {
+            "Hitpoints": 736,
+            "Damage": 210,
+            "Damage/sec": 161
+        },
+        "Minion Horde": {
+            "Hitpoints": 252,
+            "Damage": 112,
+            "Damage/sec": 112
+        },
+        "Rascals": {
+            "Hitpoints": 2009,
+            "Damage": 146,
+            "Damage/sec": 97
+        },
+        "Skeleton King": {
+            "Hitpoints": 2530,
+            "Area Damage": 225,
+            "Damage/sec": 140
+        },
+        "Golden Knight": {
+            "Hitpoints": 2200,
+            "Damage": 176,
+            "Damage/sec": 195,
+            "Dash Damage": 341
+        },
+        "Mighty Miner": {
+            "Hitpoints": 2640,
+            "Damage": 44,
+            "Damage/sec": 110
+        },
+        "Lumberjack": {
+            "Hitpoints": 1409,
+            "Damage": 266,
+            "Damage/sec": 332
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1423,
+            "Damage": 39,
+            "Damage/sec": 97
+        },
+        "Night Witch": {
+            "Hitpoints": 997,
+            "Damage": 345,
+            "Damage/sec": 265
+        },
+        "Magic Archer": {
+            "Hitpoints": 585,
+            "Area Damage": 147,
+            "Damage/sec": 133
+        },
+        "Mother Witch": {
+            "Hitpoints": 585,
+            "Damage": 146,
+            "Damage/sec": 146
+        },
+        "Baby Dragon": {
+            "Hitpoints": 1267,
+            "Area Damage": 176,
+            "Damage/sec": 117
+        },
+        "Dark Prince": {
+            "Hitpoints": 1320,
+            "Shield Hitpoints": 264,
+            "Area Damage": 272,
+            "Damage/sec": 209,
+            "Charge Damage": 545
+        },
+        "Hunter": {
+            "Hitpoints": 922,
+            "Damage": 93,
+            "Damage/sec": 42
+        },
+        "Valkyrie": {
+            "Hitpoints": 2097,
+            "Area Damage": 293,
+            "Damage/sec": 195
+        },
+        "Musketeer": {
+            "Hitpoints": 792,
+            "Damage": 239,
+            "Damage/sec": 239
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1495,
+            "Damage": 792,
+            "Damage/sec": 495
+        },
+        "Hog Rider": {
+            "Hitpoints": 1864,
+            "Damage": 349,
+            "Damage/sec": 218
+        },
+        "Battle Ram": {
+            "Hitpoints": 1001,
+            "Damage": 314,
+            "Charge Damage": 629
+        },
+        "Zappies": {
+            "Hitpoints": 582,
+            "Damage": 128,
+            "Damage/sec": 60
+        },
+        "Flying Machine": {
+            "Hitpoints": 675,
+            "Damage": 188,
+            "Damage/sec": 170
+        },
+        "Battle Healer": {
+            "Hitpoints": 1887,
+            "Damage": 163,
+            "Damage/sec": 108
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 584,
+            "Area Damage": 177,
+            "Damage/sec": 93
+        },
+        "Ice Wizard": {
+            "Area Damage": 43,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 287,
+            "Area Damage": 186,
+            "Damage/sec": 62
+        },
+        "Miner": {
+            "Hitpoints": 1330,
+            "Damage": 212,
+            "Crown Tower Damage": 63,
+            "Damage/sec": 176
+        },
+        "Bandit": {
+            "Hitpoints": 997,
+            "Damage": 212,
+            "Damage/sec": 212,
+            "Dash Damage": 425
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1330,
+            "Area Damage": 287,
+            "Damage/sec": 159
+        },
+        "Fisherman": {
+            "Hitpoints": 957,
+            "Damage": 212,
+            "Damage/sec": 163
+        },
+        "Skeleton Army": {
+            "Hitpoints": 89,
+            "Damage": 89,
+            "Damage/sec": 89
+        },
+        "Guards": {
+            "Hitpoints": 89,
+            "Shield Hitpoints": 264,
+            "Damage": 133,
+            "Damage/sec": 133
+        },
+        "Mega Minion": {
+            "Hitpoints": 920,
+            "Damage": 342,
+            "Damage/sec": 213
+        },
+        "Dart Goblin": {
+            "Hitpoints": 286,
+            "Damage": 144,
+            "Damage/sec": 205
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1584,
+            "Damage": 279,
+            "Damage/sec": 214
+        },
+        "Knight": {
+            "Hitpoints": 1829,
+            "Damage": 221,
+            "Damage/sec": 184
+        },
+        "Archers": {
+            "Hitpoints": 334,
+            "Damage": 118,
+            "Damage/sec": 107
+        },
+        "Minions": {
+            "Hitpoints": 252,
+            "Damage": 112,
+            "Damage/sec": 112
+        },
+        "Goblin Gang": {
+            "Hitpoints": 221,
+            "Damage": 132,
+            "Damage/sec": 120
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 584
+        },
+        "Firecracker": {
+            "Hitpoints": 334,
+            "Area Damage": 70,
+            "Damage/sec": 23
+        },
+        "Wall Breakers": {
+            "Hitpoints": 364,
+            "Area Damage": 431
+        },
+        "Ice Golem": {
+            "Hitpoints": 1316,
+            "Damage": 93,
+            "Damage/sec": 37,
+            "Death Damage": 93
+        },
+        "Goblins": {
+            "Hitpoints": 221,
+            "Damage": 132,
+            "Damage/sec": 120
+        },
+        "Bomber": {
+            "Hitpoints": 365,
+            "Area Damage": 244,
+            "Damage/sec": 135
+        },
+        "Spear Goblins": {
+            "Hitpoints": 146,
+            "Damage": 89,
+            "Damage/sec": 52
+        },
+        "Bats": {
+            "Hitpoints": 89,
+            "Damage": 89,
+            "Damage/sec": 68
+        },
+        "Skeletons": {
+            "Hitpoints": 89,
+            "Damage": 89,
+            "Damage/sec": 89
+        },
+        "Ice Spirit": {
+            "Hitpoints": 252,
+            "Area Damage": 120
+        },
+        "Fire Spirit": {
+            "Hitpoints": 252,
+            "Area Damage": 250
+        },
+        "Electro Spirit": {
+            "Hitpoints": 252,
+            "Damage": 109
+        }
+    },
+    "lvl.13": {
+        "Three Musketeers": {
+            "Hitpoints": 870,
+            "Damage": 263,
+            "Damage/sec": 263
+        },
+        "Golem": {
+            "Hitpoints": 6176,
+            "Damage": 376,
+            "Damage/sec": 150,
+            "Death Damage": 270
+        },
+        "Royal Recruits": {
+            "Hitpoints": 642,
+            "Shield Hitpoints": 290,
+            "Damage": 160,
+            "Damage/sec": 123
+        },
+        "Lava Hound": {
+            "Hitpoints": 4599,
+            "Damage": 65,
+            "Damage/sec": 50
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 4535,
+            "Damage": 984,
+            "Damage/sec": 546
+        },
+        "Mega Knight": {
+            "Hitpoints": 4818,
+            "Area Damage": 324,
+            "Damage/sec": 190,
+            "Dash Damage": 648
+        },
+        "Electro Giant": {
+            "Hitpoints": 4651,
+            "Damage": 196,
+            "Damage/sec": 93
+        },
+        "Sparky": {
+            "Hitpoints": 1752,
+            "Area Damage": 1606,
+            "Damage/sec": 401
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 4342,
+            "Damage": 322,
+            "Damage/sec": 230
+        },
+        "Goblin Giant": {
+            "Hitpoints": 3796,
+            "Damage": 212,
+            "Damage/sec": 141
+        },
+        "Royal Giant": {
+            "Hitpoints": 3708,
+            "Damage": 370,
+            "Damage/sec": 217
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1619,
+            "Damage": 463,
+            "Damage/sec": 330
+        },
+        "Archer Queen": {
+            "Hitpoints": 1210,
+            "Damage": 272,
+            "Damage/sec": 226
+        },
+        "Ram Rider": {
+            "Hitpoints": 2133,
+            "Damage": 321,
+            "Damage/sec": 178,
+            "Charge Damage": 642
+        },
+        "Balloon": {
+            "Hitpoints": 2026,
+            "Damage": 772,
+            "Damage/sec": 386
+        },
+        "Witch": {
+            "Hitpoints": 1011,
+            "Area Damage": 162,
+            "Damage/sec": 147
+        },
+        "Prince": {
+            "Hitpoints": 2316,
+            "Damage": 472,
+            "Damage/sec": 337,
+            "Charge Damage": 945
+        },
+        "Bowler": {
+            "Hitpoints": 2509,
+            "Area Damage": 347,
+            "Damage/sec": 138
+        },
+        "Executioner": {
+            "Hitpoints": 1544,
+            "Area Damage": 204,
+            "Damage/sec": 85
+        },
+        "Cannon Cart": {
+            "Hitpoints": 1076,
+            "Damage": 256,
+            "Damage/sec": 256
+        },
+        "Electro Dragon": {
+            "Hitpoints": 1146,
+            "Damage": 231,
+            "Damage/sec": 110
+        },
+        "Giant": {
+            "Hitpoints": 4940,
+            "Damage": 307,
+            "Damage/sec": 204
+        },
+        "Royal Hogs": {
+            "Hitpoints": 1011,
+            "Damage": 89,
+            "Damage/sec": 74
+        },
+        "Wizard": {
+            "Hitpoints": 870,
+            "Area Damage": 340,
+            "Damage/sec": 242
+        },
+        "Barbarians": {
+            "Hitpoints": 809,
+            "Damage": 231,
+            "Damage/sec": 177
+        },
+        "Minion Horde": {
+            "Hitpoints": 278,
+            "Damage": 123,
+            "Damage/sec": 123
+        },
+        "Rascals": {
+            "Hitpoints": 2209,
+            "Damage": 160,
+            "Damage/sec": 106
+        },
+        "Skeleton King": {
+            "Hitpoints": 2783,
+            "Area Damage": 248,
+            "Damage/sec": 155
+        },
+        "Golden Knight": {
+            "Hitpoints": 2420,
+            "Damage": 193,
+            "Damage/sec": 214,
+            "Dash Damage": 375
+        },
+        "Mighty Miner": {
+            "Hitpoints": 2904,
+            "Damage": 48,
+            "Damage/sec": 120
+        },
+        "Lumberjack": {
+            "Hitpoints": 1547,
+            "Damage": 292,
+            "Damage/sec": 365
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1562,
+            "Damage": 43,
+            "Damage/sec": 107
+        },
+        "Night Witch": {
+            "Hitpoints": 1095,
+            "Damage": 379,
+            "Damage/sec": 291
+        },
+        "Magic Archer": {
+            "Hitpoints": 642,
+            "Area Damage": 162,
+            "Damage/sec": 147
+        },
+        "Mother Witch": {
+            "Hitpoints": 642,
+            "Damage": 160,
+            "Damage/sec": 160
+        },
+        "Baby Dragon": {
+            "Hitpoints": 1389,
+            "Area Damage": 193,
+            "Damage/sec": 128
+        },
+        "Dark Prince": {
+            "Hitpoints": 1447,
+            "Shield Hitpoints": 289,
+            "Area Damage": 299,
+            "Damage/sec": 230,
+            "Charge Damage": 598
+        },
+        "Hunter": {
+            "Hitpoints": 1011,
+            "Damage": 102,
+            "Damage/sec": 46
+        },
+        "Valkyrie": {
+            "Hitpoints": 2304,
+            "Area Damage": 322,
+            "Damage/sec": 214
+        },
+        "Musketeer": {
+            "Hitpoints": 870,
+            "Damage": 263,
+            "Damage/sec": 263
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1643,
+            "Damage": 870,
+            "Damage/sec": 543
+        },
+        "Hog Rider": {
+            "Hitpoints": 2048,
+            "Damage": 384,
+            "Damage/sec": 240
+        },
+        "Battle Ram": {
+            "Hitpoints": 1100,
+            "Damage": 345,
+            "Charge Damage": 691
+        },
+        "Zappies": {
+            "Hitpoints": 640,
+            "Damage": 140,
+            "Damage/sec": 66
+        },
+        "Flying Machine": {
+            "Hitpoints": 742,
+            "Damage": 207,
+            "Damage/sec": 188
+        },
+        "Battle Healer": {
+            "Hitpoints": 2073,
+            "Damage": 179,
+            "Damage/sec": 119
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 642,
+            "Area Damage": 194,
+            "Damage/sec": 102
+        },
+        "Ice Wizard": {
+            "Area Damage": 48,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 315,
+            "Area Damage": 204,
+            "Damage/sec": 68
+        },
+        "Miner": {
+            "Hitpoints": 1460,
+            "Damage": 233,
+            "Crown Tower Damage": 69,
+            "Damage/sec": 194
+        },
+        "Bandit": {
+            "Hitpoints": 1095,
+            "Damage": 233,
+            "Damage/sec": 233,
+            "Dash Damage": 467
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1460,
+            "Area Damage": 315,
+            "Damage/sec": 175
+        },
+        "Fisherman": {
+            "Hitpoints": 1051,
+            "Damage": 233,
+            "Damage/sec": 179
+        },
+        "Skeleton Army": {
+            "Hitpoints": 98,
+            "Damage": 98,
+            "Damage/sec": 98
+        },
+        "Guards": {
+            "Hitpoints": 98,
+            "Shield Hitpoints": 289,
+            "Damage": 146,
+            "Damage/sec": 146
+        },
+        "Mega Minion": {
+            "Hitpoints": 1011,
+            "Damage": 376,
+            "Damage/sec": 235
+        },
+        "Dart Goblin": {
+            "Hitpoints": 314,
+            "Damage": 158,
+            "Damage/sec": 225
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1740,
+            "Damage": 307,
+            "Damage/sec": 236
+        },
+        "Knight": {
+            "Hitpoints": 2011,
+            "Damage": 244,
+            "Damage/sec": 203
+        },
+        "Archers": {
+            "Hitpoints": 367,
+            "Damage": 129,
+            "Damage/sec": 117
+        },
+        "Minions": {
+            "Hitpoints": 278,
+            "Damage": 123,
+            "Damage/sec": 123
+        },
+        "Goblin Gang": {
+            "Hitpoints": 244,
+            "Damage": 145,
+            "Damage/sec": 131
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 642
+        },
+        "Firecracker": {
+            "Hitpoints": 367,
+            "Area Damage": 77,
+            "Damage/sec": 25
+        },
+        "Wall Breakers": {
+            "Hitpoints": 399,
+            "Area Damage": 472
+        },
+        "Ice Golem": {
+            "Hitpoints": 1446,
+            "Damage": 102,
+            "Damage/sec": 40,
+            "Death Damage": 102
+        },
+        "Goblins": {
+            "Hitpoints": 244,
+            "Damage": 145,
+            "Damage/sec": 131
+        },
+        "Bomber": {
+            "Hitpoints": 401,
+            "Area Damage": 268,
+            "Damage/sec": 148
+        },
+        "Spear Goblins": {
+            "Hitpoints": 160,
+            "Damage": 98,
+            "Damage/sec": 57
+        },
+        "Bats": {
+            "Hitpoints": 98,
+            "Damage": 98,
+            "Damage/sec": 75
+        },
+        "Skeletons": {
+            "Hitpoints": 98,
+            "Damage": 98,
+            "Damage/sec": 98
+        },
+        "Ice Spirit": {
+            "Hitpoints": 278,
+            "Area Damage": 132
+        },
+        "Fire Spirit": {
+            "Hitpoints": 278,
+            "Area Damage": 275
+        },
+        "Electro Spirit": {
+            "Hitpoints": 278,
+            "Damage": 120
+        }
+    },
+    "lvl.14": {
+        "Three Musketeers": {
+            "Hitpoints": 955,
+            "Damage": 289,
+            "Damage/sec": 289
+        },
+        "Golem": {
+            "Hitpoints": 6784,
+            "Damage": 413,
+            "Damage/sec": 165,
+            "Death Damage": 296
+        },
+        "Royal Recruits": {
+            "Hitpoints": 705,
+            "Shield Hitpoints": 318,
+            "Damage": 176,
+            "Damage/sec": 135
+        },
+        "Lava Hound": {
+            "Hitpoints": 5040,
+            "Damage": 72,
+            "Damage/sec": 55
+        },
+        "P.E.K.K.A": {
+            "Hitpoints": 4982,
+            "Damage": 1081,
+            "Damage/sec": 600
+        },
+        "Mega Knight": {
+            "Hitpoints": 5280,
+            "Area Damage": 355,
+            "Damage/sec": 208,
+            "Dash Damage": 710
+        },
+        "Electro Giant": {
+            "Hitpoints": 5109,
+            "Damage": 216,
+            "Damage/sec": 102
+        },
+        "Sparky": {
+            "Hitpoints": 1920,
+            "Area Damage": 1760,
+            "Damage/sec": 440
+        },
+        "Giant Skeleton": {
+            "Hitpoints": 4770,
+            "Damage": 354,
+            "Damage/sec": 252
+        },
+        "Goblin Giant": {
+            "Hitpoints": 4170,
+            "Damage": 233,
+            "Damage/sec": 155
+        },
+        "Royal Giant": {
+            "Hitpoints": 4068,
+            "Damage": 406,
+            "Damage/sec": 238
+        },
+        "Elite Barbarians": {
+            "Hitpoints": 1776,
+            "Damage": 508,
+            "Damage/sec": 362
+        },
+        "Archer Queen": {
+            "Hitpoints": 1330,
+            "Damage": 299,
+            "Damage/sec": 249
+        },
+        "Ram Rider": {
+            "Hitpoints": 2337,
+            "Damage": 352,
+            "Damage/sec": 195,
+            "Charge Damage": 704
+        },
+        "Balloon": {
+            "Hitpoints": 2226,
+            "Damage": 848,
+            "Damage/sec": 424
+        },
+        "Witch": {
+            "Hitpoints": 1110,
+            "Area Damage": 178,
+            "Damage/sec": 161
+        },
+        "Prince": {
+            "Hitpoints": 2544,
+            "Damage": 519,
+            "Damage/sec": 370,
+            "Charge Damage": 1038
+        },
+        "Bowler": {
+            "Hitpoints": 2756,
+            "Area Damage": 381,
+            "Damage/sec": 152
+        },
+        "Executioner": {
+            "Hitpoints": 1696,
+            "Area Damage": 224,
+            "Damage/sec": 93
+        },
+        "Cannon Cart": {
+            "Hitpoints": 1182,
+            "Damage": 281,
+            "Damage/sec": 281
+        },
+        "Electro Dragon": {
+            "Hitpoints": 1259,
+            "Damage": 254,
+            "Damage/sec": 120
+        },
+        "Giant": {
+            "Hitpoints": 5423,
+            "Damage": 337,
+            "Damage/sec": 224
+        },
+        "Royal Hogs": {
+            "Hitpoints": 1109,
+            "Damage": 98,
+            "Damage/sec": 81
+        },
+        "Wizard": {
+            "Hitpoints": 955,
+            "Area Damage": 373,
+            "Damage/sec": 266
+        },
+        "Barbarians": {
+            "Hitpoints": 888,
+            "Damage": 254,
+            "Damage/sec": 195
+        },
+        "Minion Horde": {
+            "Hitpoints": 305,
+            "Damage": 135,
+            "Damage/sec": 135
+        },
+        "Rascals": {
+            "Hitpoints": 2423,
+            "Damage": 176,
+            "Damage/sec": 117
+        },
+        "Skeleton King": {
+            "Hitpoints": 3059,
+            "Area Damage": 272,
+            "Damage/sec": 170
+        },
+        "Golden Knight": {
+            "Hitpoints": 2660,
+            "Damage": 212,
+            "Damage/sec": 235,
+            "Dash Damage": 412
+        },
+        "Mighty Miner": {
+            "Hitpoints": 3192,
+            "Damage": 53,
+            "Damage/sec": 132
+        },
+        "Lumberjack": {
+            "Hitpoints": 1696,
+            "Damage": 320,
+            "Damage/sec": 400
+        },
+        "Inferno Dragon": {
+            "Hitpoints": 1712,
+            "Damage": 48,
+            "Damage/sec": 120
+        },
+        "Night Witch": {
+            "Hitpoints": 1200,
+            "Damage": 416,
+            "Damage/sec": 320
+        },
+        "Magic Archer": {
+            "Hitpoints": 704,
+            "Area Damage": 177,
+            "Damage/sec": 160
+        },
+        "Mother Witch": {
+            "Hitpoints": 704,
+            "Damage": 176,
+            "Damage/sec": 176
+        },
+        "Baby Dragon": {
+            "Hitpoints": 1526,
+            "Area Damage": 212,
+            "Damage/sec": 141
+        },
+        "Dark Prince": {
+            "Hitpoints": 1590,
+            "Shield Hitpoints": 318,
+            "Area Damage": 328,
+            "Damage/sec": 252,
+            "Charge Damage": 657
+        },
+        "Hunter": {
+            "Hitpoints": 1110,
+            "Damage": 112,
+            "Damage/sec": 50
+        },
+        "Valkyrie": {
+            "Hitpoints": 2529,
+            "Area Damage": 354,
+            "Damage/sec": 236
+        },
+        "Musketeer": {
+            "Hitpoints": 955,
+            "Damage": 289,
+            "Damage/sec": 289
+        },
+        "Mini P.E.K.K.A": {
+            "Hitpoints": 1804,
+            "Damage": 955,
+            "Damage/sec": 596
+        },
+        "Hog Rider": {
+            "Hitpoints": 2248,
+            "Damage": 421,
+            "Damage/sec": 263
+        },
+        "Battle Ram": {
+            "Hitpoints": 1208,
+            "Damage": 379,
+            "Charge Damage": 758
+        },
+        "Zappies": {
+            "Hitpoints": 702,
+            "Damage": 154,
+            "Damage/sec": 73
+        },
+        "Flying Machine": {
+            "Hitpoints": 814,
+            "Damage": 227,
+            "Damage/sec": 206
+        },
+        "Battle Healer": {
+            "Hitpoints": 2276,
+            "Damage": 196,
+            "Damage/sec": 130
+        },
+        "Skeleton Dragons": {
+            "Hitpoints": 705,
+            "Area Damage": 213,
+            "Damage/sec": 112
+        },
+        "Ice Wizard": {
+            "Area Damage": 52,
+            "Crown Tower Damage": 0
+        },
+        "Princess": {
+            "Hitpoints": 345,
+            "Area Damage": 224,
+            "Damage/sec": 74
+        },
+        "Miner": {
+            "Hitpoints": 1600,
+            "Damage": 256,
+            "Crown Tower Damage": 76,
+            "Damage/sec": 213
+        },
+        "Bandit": {
+            "Hitpoints": 1200,
+            "Damage": 256,
+            "Damage/sec": 256,
+            "Dash Damage": 512
+        },
+        "Royal Ghost": {
+            "Hitpoints": 1600,
+            "Area Damage": 345,
+            "Damage/sec": 191
+        },
+        "Fisherman": {
+            "Hitpoints": 1152,
+            "Damage": 256,
+            "Damage/sec": 196
+        },
+        "Skeleton Army": {
+            "Hitpoints": 108,
+            "Damage": 108,
+            "Damage/sec": 108
+        },
+        "Guards": {
+            "Hitpoints": 108,
+            "Shield Hitpoints": 318,
+            "Damage": 161,
+            "Damage/sec": 161
+        },
+        "Mega Minion": {
+            "Hitpoints": 1109,
+            "Damage": 413,
+            "Damage/sec": 258
+        },
+        "Dart Goblin": {
+            "Hitpoints": 345,
+            "Damage": 174,
+            "Damage/sec": 248
+        },
+        "Elixir Golem": {
+            "Hitpoints": 1910,
+            "Damage": 337,
+            "Damage/sec": 259
+        },
+        "Knight": {
+            "Hitpoints": 2206,
+            "Damage": 267,
+            "Damage/sec": 222
+        },
+        "Archers": {
+            "Hitpoints": 403,
+            "Damage": 142,
+            "Damage/sec": 129
+        },
+        "Minions": {
+            "Hitpoints": 305,
+            "Damage": 135,
+            "Damage/sec": 135
+        },
+        "Goblin Gang": {
+            "Hitpoints": 267,
+            "Damage": 159,
+            "Damage/sec": 144
+        },
+        "Skeleton Barrel": {
+            "Hitpoints": 705
+        },
+        "Firecracker": {
+            "Hitpoints": 403,
+            "Area Damage": 84,
+            "Damage/sec": 28
+        },
+        "Wall Breakers": {
+            "Hitpoints": 438,
+            "Area Damage": 519
+        },
+        "Ice Golem": {
+            "Hitpoints": 1587,
+            "Damage": 112,
+            "Damage/sec": 44,
+            "Death Damage": 112
+        },
+        "Goblins": {
+            "Hitpoints": 267,
+            "Damage": 159,
+            "Damage/sec": 144
+        },
+        "Bomber": {
+            "Hitpoints": 440,
+            "Area Damage": 294,
+            "Damage/sec": 163
+        },
+        "Spear Goblins": {
+            "Hitpoints": 176,
+            "Damage": 108,
+            "Damage/sec": 63
+        },
+        "Bats": {
+            "Hitpoints": 108,
+            "Damage": 108,
+            "Damage/sec": 83
+        },
+        "Skeletons": {
+            "Hitpoints": 108,
+            "Damage": 108,
+            "Damage/sec": 108
+        },
+        "Ice Spirit": {
+            "Hitpoints": 305,
+            "Area Damage": 145
+        },
+        "Fire Spirit": {
+            "Hitpoints": 305,
+            "Area Damage": 301
+        },
+        "Electro Spirit": {
+            "Hitpoints": 305,
+            "Damage": 132
+        }
+    }
+}

@@ -1,0 +1,621 @@
+{
+    "lvl.1": {
+        "Lightning": {},
+        "Rocket": {},
+        "Graveyard": {},
+        "Freeze": {},
+        "Poison": {},
+        "Fireball": {},
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 48,
+            "Crown Tower Damage": 14
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {},
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 75,
+            "Crown Tower Damage": 22
+        },
+        "Giant Snowball": {
+            "Area Damage": 75,
+            "Crown Tower Damage": 22
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.2": {
+        "Lightning": {},
+        "Rocket": {},
+        "Graveyard": {},
+        "Freeze": {},
+        "Poison": {},
+        "Fireball": {},
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 52,
+            "Crown Tower Damage": 15
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {},
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 82,
+            "Crown Tower Damage": 24
+        },
+        "Giant Snowball": {
+            "Area Damage": 82,
+            "Crown Tower Damage": 24
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.3": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 700,
+            "Crown Tower Damage": 210
+        },
+        "Graveyard": {},
+        "Freeze": {},
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 325,
+            "Crown Tower Damage": 97
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 58,
+            "Crown Tower Damage": 17
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {},
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 90,
+            "Crown Tower Damage": 27
+        },
+        "Giant Snowball": {
+            "Area Damage": 90,
+            "Crown Tower Damage": 27
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.4": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 770,
+            "Crown Tower Damage": 231
+        },
+        "Graveyard": {},
+        "Freeze": {},
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 357,
+            "Crown Tower Damage": 107
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 63,
+            "Crown Tower Damage": 18
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {},
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 99,
+            "Crown Tower Damage": 29
+        },
+        "Giant Snowball": {
+            "Area Damage": 99,
+            "Crown Tower Damage": 29
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.5": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 847,
+            "Crown Tower Damage": 254
+        },
+        "Graveyard": {},
+        "Freeze": {},
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 393,
+            "Crown Tower Damage": 117
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 70,
+            "Crown Tower Damage": 21
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {},
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 109,
+            "Crown Tower Damage": 32
+        },
+        "Giant Snowball": {
+            "Area Damage": 109,
+            "Crown Tower Damage": 32
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.6": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 931,
+            "Crown Tower Damage": 279
+        },
+        "Graveyard": {},
+        "Freeze": {
+            "Area Damage": 72,
+            "Crown Tower Damage": 21
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 432,
+            "Crown Tower Damage": 129
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 6,
+            "Cloned Rare Level": 4,
+            "Cloned Epic Level": 1,
+            "Cloned Legendary Level": 1
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 76,
+            "Crown Tower Damage": 22
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {
+            "Duration": "6.0sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 120,
+            "Crown Tower Damage": 36
+        },
+        "Giant Snowball": {
+            "Area Damage": 120,
+            "Crown Tower Damage": 36
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.7": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1022,
+            "Crown Tower Damage": 306
+        },
+        "Graveyard": {},
+        "Freeze": {
+            "Area Damage": 79,
+            "Crown Tower Damage": 23
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 474,
+            "Crown Tower Damage": 142
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 7,
+            "Cloned Rare Level": 5,
+            "Cloned Epic Level": 2,
+            "Cloned Legendary Level": 1
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 84,
+            "Crown Tower Damage": 25
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {
+            "Duration": "6.5sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 132,
+            "Crown Tower Damage": 39
+        },
+        "Giant Snowball": {
+            "Area Damage": 132,
+            "Crown Tower Damage": 39
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.8": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1120,
+            "Crown Tower Damage": 336
+        },
+        "Graveyard": {},
+        "Freeze": {
+            "Area Damage": 87,
+            "Crown Tower Damage": 26
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 520,
+            "Crown Tower Damage": 156
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 8,
+            "Cloned Rare Level": 6,
+            "Cloned Epic Level": 3,
+            "Cloned Legendary Level": 1
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 92,
+            "Crown Tower Damage": 27
+        },
+        "Royal Delivery": {},
+        "The Log": {},
+        "Rage": {
+            "Duration": "7.0sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 144,
+            "Crown Tower Damage": 43
+        },
+        "Giant Snowball": {
+            "Area Damage": 144,
+            "Crown Tower Damage": 43
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.9": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1232,
+            "Crown Tower Damage": 369
+        },
+        "Graveyard": {
+            "Hitpoints": 67,
+            "Damage": 67,
+            "Damage/sec": 67
+        },
+        "Freeze": {
+            "Area Damage": 95,
+            "Crown Tower Damage": 28
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 572,
+            "Crown Tower Damage": 171
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 9,
+            "Cloned Rare Level": 7,
+            "Cloned Epic Level": 4,
+            "Cloned Legendary Level": 1
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 101,
+            "Crown Tower Damage": 30
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 240,
+            "Crown Tower Damage": 48
+        },
+        "Rage": {
+            "Duration": "7.5sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 159,
+            "Crown Tower Damage": 47
+        },
+        "Giant Snowball": {
+            "Area Damage": 159,
+            "Crown Tower Damage": 47
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.10": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1351,
+            "Crown Tower Damage": 405
+        },
+        "Graveyard": {
+            "Hitpoints": 74,
+            "Damage": 74,
+            "Damage/sec": 74
+        },
+        "Freeze": {
+            "Area Damage": 105,
+            "Crown Tower Damage": 31
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 627,
+            "Crown Tower Damage": 188
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 10,
+            "Cloned Rare Level": 8,
+            "Cloned Epic Level": 5,
+            "Cloned Legendary Level": 2
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 111,
+            "Crown Tower Damage": 33
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 264,
+            "Crown Tower Damage": 52
+        },
+        "Rage": {
+            "Duration": "8.0sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 174,
+            "Crown Tower Damage": 52
+        },
+        "Giant Snowball": {
+            "Area Damage": 174,
+            "Crown Tower Damage": 52
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.11": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1484,
+            "Crown Tower Damage": 445
+        },
+        "Graveyard": {
+            "Hitpoints": 81,
+            "Damage": 81,
+            "Damage/sec": 81
+        },
+        "Freeze": {
+            "Area Damage": 115,
+            "Crown Tower Damage": 34
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 689,
+            "Crown Tower Damage": 206
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 11,
+            "Cloned Rare Level": 9,
+            "Cloned Epic Level": 6,
+            "Cloned Legendary Level": 3
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 122,
+            "Crown Tower Damage": 36
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 290,
+            "Crown Tower Damage": 58
+        },
+        "Rage": {
+            "Duration": "8.5sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 192,
+            "Crown Tower Damage": 57
+        },
+        "Giant Snowball": {
+            "Area Damage": 192,
+            "Crown Tower Damage": 57
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.12": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1631,
+            "Crown Tower Damage": 489
+        },
+        "Graveyard": {
+            "Hitpoints": 89,
+            "Damage": 89,
+            "Damage/sec": 89
+        },
+        "Freeze": {
+            "Area Damage": 126,
+            "Crown Tower Damage": 37
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 757,
+            "Crown Tower Damage": 227
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 12,
+            "Cloned Rare Level": 10,
+            "Cloned Epic Level": 7,
+            "Cloned Legendary Level": 4
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 134,
+            "Crown Tower Damage": 40
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 319,
+            "Crown Tower Damage": 63
+        },
+        "Rage": {
+            "Duration": "9.0sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 210,
+            "Crown Tower Damage": 63
+        },
+        "Giant Snowball": {
+            "Area Damage": 210,
+            "Crown Tower Damage": 63
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.13": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1792,
+            "Crown Tower Damage": 537
+        },
+        "Graveyard": {
+            "Hitpoints": 98,
+            "Damage": 98,
+            "Damage/sec": 98
+        },
+        "Freeze": {
+            "Area Damage": 138,
+            "Crown Tower Damage": 41
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 832,
+            "Crown Tower Damage": 249
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {
+            "Cloned Common Level": 13,
+            "Cloned Rare Level": 11,
+            "Cloned Epic Level": 8,
+            "Cloned Legendary Level": 5
+        },
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 148,
+            "Crown Tower Damage": 44
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 350,
+            "Crown Tower Damage": 70
+        },
+        "Rage": {
+            "Duration": "9.5sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 231,
+            "Crown Tower Damage": 69
+        },
+        "Giant Snowball": {
+            "Area Damage": 231,
+            "Crown Tower Damage": 69
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    },
+    "lvl.14": {
+        "Lightning": {},
+        "Rocket": {
+            "Area Damage": 1967,
+            "Crown Tower Damage": 590
+        },
+        "Graveyard": {
+            "Hitpoints": 108,
+            "Damage": 108,
+            "Damage/sec": 108
+        },
+        "Freeze": {
+            "Area Damage": 152,
+            "Crown Tower Damage": 45
+        },
+        "Poison": {},
+        "Fireball": {
+            "Area Damage": 913,
+            "Crown Tower Damage": 273
+        },
+        "Goblin Barrel": {},
+        "Tornado": {},
+        "Clone": {},
+        "Earthquake": {},
+        "Arrows": {
+            "Area Damage": 162,
+            "Crown Tower Damage": 48
+        },
+        "Royal Delivery": {},
+        "The Log": {
+            "Damage": 384,
+            "Crown Tower Damage": 76
+        },
+        "Rage": {
+            "Duration": "10.0sec"
+        },
+        "Barbarian Barrel": {},
+        "Zap": {
+            "Area Damage": 254,
+            "Crown Tower Damage": 76
+        },
+        "Giant Snowball": {
+            "Area Damage": 254,
+            "Crown Tower Damage": 76
+        },
+        "Mirror": {},
+        "Heal Spirit": {}
+    }
+}

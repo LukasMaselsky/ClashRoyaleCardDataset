@@ -1,0 +1,674 @@
+{
+    "lvl.1": {
+        "Barbarian Hut": {},
+        "X-Bow": {},
+        "Elixir Collector": {},
+        "Goblin Hut": {},
+        "Inferno Tower": {},
+        "Goblin Drill": {},
+        "Bomb Tower": {},
+        "Furnace": {},
+        "Goblin Cage": {},
+        "Mortar": {
+            "Hitpoints": 575,
+            "Area Damage": 104,
+            "Damage/sec": 20
+        },
+        "Tesla": {
+            "Hitpoints": 450,
+            "Damage": 90,
+            "Damage/sec": 75
+        },
+        "Tombstone": {},
+        "Cannon": {
+            "Hitpoints": 350,
+            "Damage": 83,
+            "Damage/sec": 92
+        }
+    },
+    "lvl.2": {
+        "Barbarian Hut": {},
+        "X-Bow": {},
+        "Elixir Collector": {},
+        "Goblin Hut": {},
+        "Inferno Tower": {},
+        "Goblin Drill": {},
+        "Bomb Tower": {},
+        "Furnace": {},
+        "Goblin Cage": {},
+        "Mortar": {
+            "Hitpoints": 632,
+            "Area Damage": 114,
+            "Damage/sec": 22
+        },
+        "Tesla": {
+            "Hitpoints": 495,
+            "Damage": 99,
+            "Damage/sec": 82
+        },
+        "Tombstone": {},
+        "Cannon": {
+            "Hitpoints": 385,
+            "Damage": 91,
+            "Damage/sec": 101
+        }
+    },
+    "lvl.3": {
+        "Barbarian Hut": {
+            "Hitpoints": 550
+        },
+        "X-Bow": {},
+        "Elixir Collector": {
+            "Hitpoints": 505
+        },
+        "Goblin Hut": {
+            "Hitpoints": 400
+        },
+        "Inferno Tower": {
+            "Hitpoints": 825,
+            "Damage": 20,
+            "Damage/sec": 50
+        },
+        "Goblin Drill": {},
+        "Bomb Tower": {
+            "Hitpoints": 640,
+            "Area Damage": 105,
+            "Damage/sec": 65
+        },
+        "Furnace": {
+            "Hitpoints": 400
+        },
+        "Goblin Cage": {
+            "Hitpoints": 350
+        },
+        "Mortar": {
+            "Hitpoints": 695,
+            "Area Damage": 125,
+            "Damage/sec": 25
+        },
+        "Tesla": {
+            "Hitpoints": 544,
+            "Damage": 108,
+            "Damage/sec": 90
+        },
+        "Tombstone": {
+            "Hitpoints": 250
+        },
+        "Cannon": {
+            "Hitpoints": 423,
+            "Damage": 100,
+            "Damage/sec": 111
+        }
+    },
+    "lvl.4": {
+        "Barbarian Hut": {
+            "Hitpoints": 605
+        },
+        "X-Bow": {},
+        "Elixir Collector": {
+            "Hitpoints": 555
+        },
+        "Goblin Hut": {
+            "Hitpoints": 440
+        },
+        "Inferno Tower": {
+            "Hitpoints": 907,
+            "Damage": 22,
+            "Damage/sec": 55
+        },
+        "Goblin Drill": {},
+        "Bomb Tower": {
+            "Hitpoints": 704,
+            "Area Damage": 115,
+            "Damage/sec": 71
+        },
+        "Furnace": {
+            "Hitpoints": 440
+        },
+        "Goblin Cage": {
+            "Hitpoints": 385
+        },
+        "Mortar": {
+            "Hitpoints": 764,
+            "Area Damage": 138,
+            "Damage/sec": 27
+        },
+        "Tesla": {
+            "Hitpoints": 598,
+            "Damage": 119,
+            "Damage/sec": 99
+        },
+        "Tombstone": {
+            "Hitpoints": 275
+        },
+        "Cannon": {
+            "Hitpoints": 465,
+            "Damage": 110,
+            "Damage/sec": 122
+        }
+    },
+    "lvl.5": {
+        "Barbarian Hut": {
+            "Hitpoints": 665
+        },
+        "X-Bow": {},
+        "Elixir Collector": {
+            "Hitpoints": 611
+        },
+        "Goblin Hut": {
+            "Hitpoints": 484
+        },
+        "Inferno Tower": {
+            "Hitpoints": 998,
+            "Damage": 24,
+            "Damage/sec": 60
+        },
+        "Goblin Drill": {},
+        "Bomb Tower": {
+            "Hitpoints": 774,
+            "Area Damage": 127,
+            "Damage/sec": 79
+        },
+        "Furnace": {
+            "Hitpoints": 484
+        },
+        "Goblin Cage": {
+            "Hitpoints": 423
+        },
+        "Mortar": {
+            "Hitpoints": 839,
+            "Area Damage": 151,
+            "Damage/sec": 30
+        },
+        "Tesla": {
+            "Hitpoints": 657,
+            "Damage": 131,
+            "Damage/sec": 109
+        },
+        "Tombstone": {
+            "Hitpoints": 302
+        },
+        "Cannon": {
+            "Hitpoints": 511,
+            "Damage": 121,
+            "Damage/sec": 134
+        }
+    },
+    "lvl.6": {
+        "Barbarian Hut": {
+            "Hitpoints": 731
+        },
+        "X-Bow": {
+            "Hitpoints": 1000,
+            "Damage": 26,
+            "Damage/sec": 86
+        },
+        "Elixir Collector": {
+            "Hitpoints": 671
+        },
+        "Goblin Hut": {
+            "Hitpoints": 532
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1097,
+            "Damage": 26,
+            "Damage/sec": 65
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1000
+        },
+        "Bomb Tower": {
+            "Hitpoints": 851,
+            "Area Damage": 139,
+            "Damage/sec": 86
+        },
+        "Furnace": {
+            "Hitpoints": 532
+        },
+        "Goblin Cage": {
+            "Hitpoints": 465
+        },
+        "Mortar": {
+            "Hitpoints": 920,
+            "Area Damage": 166,
+            "Damage/sec": 33
+        },
+        "Tesla": {
+            "Hitpoints": 720,
+            "Damage": 144,
+            "Damage/sec": 120
+        },
+        "Tombstone": {
+            "Hitpoints": 332
+        },
+        "Cannon": {
+            "Hitpoints": 560,
+            "Damage": 132,
+            "Damage/sec": 146
+        }
+    },
+    "lvl.7": {
+        "Barbarian Hut": {
+            "Hitpoints": 803
+        },
+        "X-Bow": {
+            "Hitpoints": 1100,
+            "Damage": 28,
+            "Damage/sec": 93
+        },
+        "Elixir Collector": {
+            "Hitpoints": 737
+        },
+        "Goblin Hut": {
+            "Hitpoints": 584
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1204,
+            "Damage": 29,
+            "Damage/sec": 72
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1100
+        },
+        "Bomb Tower": {
+            "Hitpoints": 934,
+            "Area Damage": 153,
+            "Damage/sec": 95
+        },
+        "Furnace": {
+            "Hitpoints": 584
+        },
+        "Goblin Cage": {
+            "Hitpoints": 511
+        },
+        "Mortar": {
+            "Hitpoints": 1012,
+            "Area Damage": 183,
+            "Damage/sec": 36
+        },
+        "Tesla": {
+            "Hitpoints": 792,
+            "Damage": 158,
+            "Damage/sec": 131
+        },
+        "Tombstone": {
+            "Hitpoints": 365
+        },
+        "Cannon": {
+            "Hitpoints": 616,
+            "Damage": 146,
+            "Damage/sec": 162
+        }
+    },
+    "lvl.8": {
+        "Barbarian Hut": {
+            "Hitpoints": 880
+        },
+        "X-Bow": {
+            "Hitpoints": 1210,
+            "Damage": 31,
+            "Damage/sec": 103
+        },
+        "Elixir Collector": {
+            "Hitpoints": 808
+        },
+        "Goblin Hut": {
+            "Hitpoints": 640
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1320,
+            "Damage": 32,
+            "Damage/sec": 80
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1210
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1024,
+            "Area Damage": 168,
+            "Damage/sec": 105
+        },
+        "Furnace": {
+            "Hitpoints": 640
+        },
+        "Goblin Cage": {
+            "Hitpoints": 560
+        },
+        "Mortar": {
+            "Hitpoints": 1109,
+            "Area Damage": 200,
+            "Damage/sec": 40
+        },
+        "Tesla": {
+            "Hitpoints": 868,
+            "Damage": 173,
+            "Damage/sec": 144
+        },
+        "Tombstone": {
+            "Hitpoints": 400
+        },
+        "Cannon": {
+            "Hitpoints": 675,
+            "Damage": 160,
+            "Damage/sec": 177
+        }
+    },
+    "lvl.9": {
+        "Barbarian Hut": {
+            "Hitpoints": 968
+        },
+        "X-Bow": {
+            "Hitpoints": 1330,
+            "Damage": 34,
+            "Damage/sec": 113
+        },
+        "Elixir Collector": {
+            "Hitpoints": 888
+        },
+        "Goblin Hut": {
+            "Hitpoints": 704
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1452,
+            "Damage": 35,
+            "Damage/sec": 87
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1330
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1126,
+            "Area Damage": 184,
+            "Damage/sec": 115
+        },
+        "Furnace": {
+            "Hitpoints": 704
+        },
+        "Goblin Cage": {
+            "Hitpoints": 616
+        },
+        "Mortar": {
+            "Hitpoints": 1219,
+            "Area Damage": 220,
+            "Damage/sec": 44
+        },
+        "Tesla": {
+            "Hitpoints": 954,
+            "Damage": 190,
+            "Damage/sec": 158
+        },
+        "Tombstone": {
+            "Hitpoints": 440
+        },
+        "Cannon": {
+            "Hitpoints": 742,
+            "Damage": 175,
+            "Damage/sec": 194
+        }
+    },
+    "lvl.10": {
+        "Barbarian Hut": {
+            "Hitpoints": 1061
+        },
+        "X-Bow": {
+            "Hitpoints": 1460,
+            "Damage": 37,
+            "Damage/sec": 123
+        },
+        "Elixir Collector": {
+            "Hitpoints": 974
+        },
+        "Goblin Hut": {
+            "Hitpoints": 772
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1592,
+            "Damage": 38,
+            "Damage/sec": 95
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1460
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1235,
+            "Area Damage": 202,
+            "Damage/sec": 126
+        },
+        "Furnace": {
+            "Hitpoints": 772
+        },
+        "Goblin Cage": {
+            "Hitpoints": 675
+        },
+        "Mortar": {
+            "Hitpoints": 1339,
+            "Area Damage": 242,
+            "Damage/sec": 48
+        },
+        "Tesla": {
+            "Hitpoints": 1048,
+            "Damage": 209,
+            "Damage/sec": 174
+        },
+        "Tombstone": {
+            "Hitpoints": 482
+        },
+        "Cannon": {
+            "Hitpoints": 815,
+            "Damage": 193,
+            "Damage/sec": 214
+        }
+    },
+    "lvl.11": {
+        "Barbarian Hut": {
+            "Hitpoints": 1166
+        },
+        "X-Bow": {
+            "Hitpoints": 1600,
+            "Damage": 41,
+            "Damage/sec": 136
+        },
+        "Elixir Collector": {
+            "Hitpoints": 1070
+        },
+        "Goblin Hut": {
+            "Hitpoints": 848
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1749,
+            "Damage": 42,
+            "Damage/sec": 105
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1600
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1356,
+            "Area Damage": 222,
+            "Damage/sec": 138
+        },
+        "Furnace": {
+            "Hitpoints": 848
+        },
+        "Goblin Cage": {
+            "Hitpoints": 742
+        },
+        "Mortar": {
+            "Hitpoints": 1472,
+            "Area Damage": 266,
+            "Damage/sec": 53
+        },
+        "Tesla": {
+            "Hitpoints": 1152,
+            "Damage": 230,
+            "Damage/sec": 191
+        },
+        "Tombstone": {
+            "Hitpoints": 530
+        },
+        "Cannon": {
+            "Hitpoints": 896,
+            "Damage": 212,
+            "Damage/sec": 235
+        }
+    },
+    "lvl.12": {
+        "Barbarian Hut": {
+            "Hitpoints": 1281
+        },
+        "X-Bow": {
+            "Hitpoints": 1760,
+            "Damage": 45,
+            "Damage/sec": 150
+        },
+        "Elixir Collector": {
+            "Hitpoints": 1176
+        },
+        "Goblin Hut": {
+            "Hitpoints": 932
+        },
+        "Inferno Tower": {
+            "Hitpoints": 1922,
+            "Damage": 46,
+            "Damage/sec": 115
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1760
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1491,
+            "Area Damage": 244,
+            "Damage/sec": 152
+        },
+        "Furnace": {
+            "Hitpoints": 932
+        },
+        "Goblin Cage": {
+            "Hitpoints": 815
+        },
+        "Mortar": {
+            "Hitpoints": 1615,
+            "Area Damage": 292,
+            "Damage/sec": 58
+        },
+        "Tesla": {
+            "Hitpoints": 1264,
+            "Damage": 252,
+            "Damage/sec": 210
+        },
+        "Tombstone": {
+            "Hitpoints": 582
+        },
+        "Cannon": {
+            "Hitpoints": 983,
+            "Damage": 233,
+            "Damage/sec": 258
+        }
+    },
+    "lvl.13": {
+        "Barbarian Hut": {
+            "Hitpoints": 1408
+        },
+        "X-Bow": {
+            "Hitpoints": 1930,
+            "Damage": 50,
+            "Damage/sec": 166
+        },
+        "Elixir Collector": {
+            "Hitpoints": 1292
+        },
+        "Goblin Hut": {
+            "Hitpoints": 1024
+        },
+        "Inferno Tower": {
+            "Hitpoints": 2112,
+            "Damage": 51,
+            "Damage/sec": 127
+        },
+        "Goblin Drill": {
+            "Hitpoints": 1930
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1638,
+            "Area Damage": 268,
+            "Damage/sec": 167
+        },
+        "Furnace": {
+            "Hitpoints": 1024
+        },
+        "Goblin Cage": {
+            "Hitpoints": 896
+        },
+        "Mortar": {
+            "Hitpoints": 1776,
+            "Area Damage": 321,
+            "Damage/sec": 64
+        },
+        "Tesla": {
+            "Hitpoints": 1390,
+            "Damage": 278,
+            "Damage/sec": 231
+        },
+        "Tombstone": {
+            "Hitpoints": 640
+        },
+        "Cannon": {
+            "Hitpoints": 1081,
+            "Damage": 256,
+            "Damage/sec": 284
+        }
+    },
+    "lvl.14": {
+        "Barbarian Hut": {
+            "Hitpoints": 1545
+        },
+        "X-Bow": {
+            "Hitpoints": 2120,
+            "Damage": 55,
+            "Damage/sec": 183
+        },
+        "Elixir Collector": {
+            "Hitpoints": 1419
+        },
+        "Goblin Hut": {
+            "Hitpoints": 1124
+        },
+        "Inferno Tower": {
+            "Hitpoints": 2318,
+            "Damage": 56,
+            "Damage/sec": 140
+        },
+        "Goblin Drill": {
+            "Hitpoints": 2120
+        },
+        "Bomb Tower": {
+            "Hitpoints": 1798,
+            "Area Damage": 295,
+            "Damage/sec": 184
+        },
+        "Furnace": {
+            "Hitpoints": 1124
+        },
+        "Goblin Cage": {
+            "Hitpoints": 983
+        },
+        "Mortar": {
+            "Hitpoints": 1949,
+            "Area Damage": 352,
+            "Damage/sec": 70
+        },
+        "Tesla": {
+            "Hitpoints": 1525,
+            "Damage": 305,
+            "Damage/sec": 254
+        },
+        "Tombstone": {
+            "Hitpoints": 702
+        },
+        "Cannon": {
+            "Hitpoints": 1186,
+            "Damage": 281,
+            "Damage/sec": 312
+        }
+    }
+}

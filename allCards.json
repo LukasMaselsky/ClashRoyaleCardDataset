@@ -1,0 +1,938 @@
+{
+    "Three Musketeers": {
+        "Rarity": "Rare",
+        "Count": "x 3",
+        "Targets": "Air & Ground",
+        "Range": "6.0",
+        "Hit Speed": "1.0sec",
+        "Speed": "Medium"
+    },
+    "Golem": {
+        "Golemite (On Death)": {
+            "Count": "x 2",
+            "Targets": "Buildings",
+            "Range": "Melee",
+            "Hit Speed": "2.5sec",
+            "Speed": "Slow"
+        },
+        "Rarity": "Epic",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "2.5sec",
+        "Speed": "Slow"
+    },
+    "Royal Recruits": {
+        "Rarity": "Common",
+        "Count": "x 6",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Medium"
+    },
+    "Lava Hound": {
+        "Lava Pups (On Death)": {
+            "Count": "x 6",
+            "Targets": "Air & Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.7sec",
+            "Speed": "Medium"
+        },
+        "Rarity": "Legendary",
+        "Targets": "Buildings",
+        "Range": "3.5",
+        "Hit Speed": "1.3sec",
+        "Speed": "Slow"
+    },
+    "P.E.K.K.A": {
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.8sec",
+        "Speed": "Slow"
+    },
+    "Mega Knight": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Radius": "1.3",
+        "Range": "Melee",
+        "Hit Speed": "1.7sec",
+        "Dash Range": "3.5\u20135",
+        "Speed": "Medium"
+    },
+    "Electro Giant": {
+        "Rarity": "Epic",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "2.1sec",
+        "Speed": "Slow"
+    },
+    "Sparky": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "5.0",
+        "Hit Speed": "4.0sec",
+        "Speed": "Slow",
+        "Radius": "1.8"
+    },
+    "Giant Skeleton": {
+        "Bomb (On Death)": {
+            "Targets": "Air & Ground"
+        },
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.4sec",
+        "Speed": "Medium"
+    },
+    "Goblin Giant": {
+        "Giant": {
+            "Rarity": "Epic",
+            "Targets": "Buildings",
+            "Range": "Melee",
+            "Hit Speed": "1.5sec",
+            "Speed": "Medium"
+        },
+        "Spear Goblin": {
+            "Count": "x 2",
+            "Spawn Speed": "0.0sec",
+            "Targets": "Air & Ground",
+            "Range": "5.5",
+            "Hit Speed": "1.7sec",
+            "Speed": "Very Fast"
+        }
+    },
+    "Royal Giant": {
+        "Rarity": "Common",
+        "Targets": "Buildings",
+        "Range": "5.0",
+        "Hit Speed": "1.7sec",
+        "Speed": "Slow"
+    },
+    "Elite Barbarians": {
+        "Rarity": "Common",
+        "Count": "x 2",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.4sec",
+        "Speed": "Fast"
+    },
+    "Archer Queen": {
+        "Rarity": "Champion",
+        "Targets": "Air & Ground",
+        "Range": "5.0",
+        "Hit Speed": "1.2sec",
+        "Speed": "Medium"
+    },
+    "Ram Rider": {
+        "Hog Rider": {
+            "Rarity": "Legendary",
+            "Targets": "Buildings",
+            "Range": "Melee",
+            "Hit Speed": "1.8sec",
+            "Speed": "Medium"
+        },
+        "Rider": {
+            "Spawn Speed": "0.0sec",
+            "Targets": "Air & Ground",
+            "Range": "5.5",
+            "Hit Speed": "1.1sec",
+            "Speed": "Medium",
+            "Snare": "-70%"
+        }
+    },
+    "Balloon": {
+        "Bomb (On Death)": {
+            "Targets": "Air & Ground"
+        },
+        "Rarity": "Epic",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "2.0sec",
+        "Speed": "Medium"
+    },
+    "Witch": {
+        "Skeleton": {
+            "Count": "x 4",
+            "Spawn Speed": "7.0sec",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.0sec",
+            "Speed": "Fast"
+        },
+        "Rarity": "Epic",
+        "Targets": "Air & Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.1sec",
+        "Speed": "Medium",
+        "Radius": "1.0"
+    },
+    "Prince": {
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.4sec",
+        "Speed": "Medium"
+    },
+    "Bowler": {
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "4.0",
+        "Hit Speed": "2.5sec",
+        "Speed": "Slow",
+        "Radius": "1.8",
+        "Projectile Range": "7.5"
+    },
+    "Executioner": {
+        "Rarity": "Epic",
+        "Targets": "Air & Ground",
+        "Range": "4.5",
+        "Hit Speed": "2.4sec",
+        "Speed": "Medium",
+        "Radius": "1.0",
+        "Projectile Range": "6.5"
+    },
+    "Cannon Cart": {
+        "Cannon Cart (On Death)": {
+            "Targets": "Ground",
+            "Range": "5.5",
+            "Hit Speed": "0.9sec"
+        },
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.0sec",
+        "Speed": "Medium"
+    },
+    "Electro Dragon": {
+        "Rarity": "Epic",
+        "Targets": "Air & Ground",
+        "Range": "3.5",
+        "Hit Speed": "2.1sec",
+        "Speed": "Medium",
+        "Freeze Duration": "0.5sec"
+    },
+    "Giant": {
+        "Rarity": "Rare",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "1.5sec",
+        "Speed": "Slow"
+    },
+    "Royal Hogs": {
+        "Rarity": "Rare",
+        "Count": "x 4",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "1.2sec",
+        "Speed": "Very Fast"
+    },
+    "Wizard": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.4sec",
+        "Speed": "Medium",
+        "Radius": "1.5"
+    },
+    "Barbarians": {
+        "Rarity": "Common",
+        "Count": "x 5",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Medium"
+    },
+    "Minion Horde": {
+        "Rarity": "Common",
+        "Count": "x 6",
+        "Targets": "Air & Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Speed": "Fast"
+    },
+    "Rascals": {
+        "Rascal Boy": {
+            "Rarity": "Common",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.5sec",
+            "Speed": "Medium"
+        },
+        "Rascal Girl": {
+            "Count": "x 2",
+            "Targets": "Air & Ground",
+            "Range": "5.0",
+            "Hit Speed": "1.0sec",
+            "Speed": "Medium"
+        }
+    },
+    "Skeleton King": {
+        "Rarity": "Champion",
+        "Targets": "Ground",
+        "Radius": "1.3",
+        "Range": "Melee",
+        "Hit Speed": "1.6sec",
+        "Speed": "Medium"
+    },
+    "Golden Knight": {
+        "Rarity": "Champion",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "0.9sec",
+        "Speed": "Medium"
+    },
+    "Mighty Miner": {
+        "Rarity": "Champion",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "0.4sec",
+        "Speed": "Medium"
+    },
+    "Lumberjack": {
+        "Rage Barbarian": {
+            "Rarity": "Legendary",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "0.8sec",
+            "Speed": "Very Fast"
+        }
+    },
+    "Inferno Dragon": {
+        "Rarity": "Legendary",
+        "Targets": "Air & Ground",
+        "Range": "3.5",
+        "Hit Speed": "0.4sec",
+        "Speed": "Medium"
+    },
+    "Night Witch": {
+        "Bat": {
+            "Count": "x 2",
+            "Spawn Speed": "5.0sec",
+            "Targets": "Air & Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.3sec",
+            "Speed": "Very Fast"
+        },
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Medium"
+    },
+    "Magic Archer": {
+        "Rarity": "Legendary",
+        "Targets": "Air & Ground",
+        "Range": "7.0",
+        "Hit Speed": "1.1sec",
+        "Speed": "Medium",
+        "Radius": "0.3",
+        "Projectile Range": "11"
+    },
+    "Mother Witch": {
+        "Rarity": "Legendary",
+        "Targets": "Air & Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.0sec",
+        "Speed": "Medium",
+        "VoodooCurse Boost": "-100%"
+    },
+    "Baby Dragon": {
+        "Rarity": "Epic",
+        "Targets": "Air & Ground",
+        "Range": "3.5",
+        "Hit Speed": "1.5sec",
+        "Speed": "Fast",
+        "Radius": "1.2"
+    },
+    "Dark Prince": {
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Radius": "1.1",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Medium"
+    },
+    "Hunter": {
+        "Rarity": "Epic",
+        "Targets": "Air & Ground",
+        "Radius": "0.07",
+        "Range": "4.0",
+        "Hit Speed": "2.2sec",
+        "Speed": "Medium",
+        "Projectile Range": "6.5"
+    },
+    "Valkyrie": {
+        "Rarity": "Rare",
+        "Targets": "Ground",
+        "Radius": "2",
+        "Range": "Melee",
+        "Hit Speed": "1.5sec",
+        "Speed": "Medium"
+    },
+    "Musketeer": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Range": "6.0",
+        "Hit Speed": "1.0sec",
+        "Speed": "Medium"
+    },
+    "Mini P.E.K.K.A": {
+        "Rarity": "Rare",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.6sec",
+        "Speed": "Fast"
+    },
+    "Hog Rider": {
+        "Rarity": "Rare",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "1.6sec",
+        "Speed": "Very Fast"
+    },
+    "Battle Ram": {
+        "Barbarian (On Death)": {
+            "Count": "x 2",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.3sec",
+            "Speed": "Medium"
+        },
+        "Rarity": "Rare",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "0.4sec",
+        "Speed": "Medium"
+    },
+    "Zappies": {
+        "Rarity": "Rare",
+        "Count": "x 3",
+        "Targets": "Air & Ground",
+        "Range": "4.5",
+        "Hit Speed": "2.1sec",
+        "Speed": "Medium",
+        "Stun Duration": "0.5sec"
+    },
+    "Flying Machine": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Range": "6.0",
+        "Hit Speed": "1.1sec",
+        "Speed": "Fast"
+    },
+    "Battle Healer": {
+        "Rarity": "Rare",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.5sec",
+        "Speed": "Medium"
+    },
+    "Skeleton Dragons": {
+        "Rarity": "Common",
+        "Count": "x 2",
+        "Targets": "Air & Ground",
+        "Range": "3.5",
+        "Hit Speed": "1.9sec",
+        "Speed": "Fast",
+        "Radius": "0.8"
+    },
+    "Ice Wizard": {
+        "Spawn IceWizardCold": {
+            "Rarity": "Legendary",
+            "Radius": "2.5",
+            "Targets": "Air & Ground",
+            "Deploy Slow Slow": "-135%"
+        },
+        "Targets": "Air & Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.7sec",
+        "Speed": "Medium",
+        "Slowdown": "-35%",
+        "Radius": "1.0"
+    },
+    "Princess": {
+        "Rarity": "Legendary",
+        "Targets": "Air & Ground",
+        "Radius": "2.0",
+        "Range": "9.0",
+        "Hit Speed": "3.0sec",
+        "Speed": "Medium"
+    },
+    "Miner": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.2sec",
+        "Speed": "Fast"
+    },
+    "Bandit": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Dash Range": "3.5\u20136",
+        "Speed": "Fast"
+    },
+    "Royal Ghost": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Radius": "1",
+        "Range": "Melee",
+        "Hit Speed": "1.8sec",
+        "Speed": "Fast"
+    },
+    "Fisherman": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Medium"
+    },
+    "Skeleton Army": {
+        "Rarity": "Epic",
+        "Count": "x 15",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Speed": "Fast"
+    },
+    "Guards": {
+        "Rarity": "Epic",
+        "Count": "x 3",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Speed": "Fast"
+    },
+    "Mega Minion": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.6sec",
+        "Speed": "Medium"
+    },
+    "Dart Goblin": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Range": "6.5",
+        "Hit Speed": "0.7sec",
+        "Speed": "Very Fast"
+    },
+    "Elixir Golem": {
+        "Elixir Golemite (On Death)": {
+            "Count": "x 2",
+            "Targets": "Buildings",
+            "Range": "Melee",
+            "Hit Speed": "1.3sec",
+            "Speed": "Medium"
+        },
+        "Rarity": "Rare",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Slow"
+    },
+    "Knight": {
+        "Rarity": "Common",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.2sec",
+        "Speed": "Medium"
+    },
+    "Archers": {
+        "Rarity": "Common",
+        "Count": "x 2",
+        "Targets": "Air & Ground",
+        "Range": "5.0",
+        "Hit Speed": "1.1sec",
+        "Speed": "Medium"
+    },
+    "Minions": {
+        "Rarity": "Common",
+        "Count": "x 3",
+        "Targets": "Air & Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Speed": "Fast"
+    },
+    "Goblin Gang": {
+        "Goblin": {
+            "Rarity": "Common",
+            "Count": "x 3",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.1sec",
+            "Speed": "Very Fast"
+        },
+        "Spear Goblin": {
+            "Count": "x 2",
+            "Targets": "Air & Ground",
+            "Range": "5.0",
+            "Hit Speed": "1.7sec",
+            "Speed": "Very Fast"
+        }
+    },
+    "Skeleton Barrel": {
+        "Balloon": {
+            "Rarity": "Common",
+            "Targets": "Buildings",
+            "Range": "Melee",
+            "Speed": "Fast"
+        },
+        "Skeleton Barrel (On Death)": {
+            "Targets": "Air & Ground"
+        }
+    },
+    "Firecracker": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Range": "6.0",
+        "Hit Speed": "3.0sec",
+        "Speed": "Fast",
+        "Radius": "0.4",
+        "Projectile Range": "5"
+    },
+    "Wall Breakers": {
+        "Rarity": "Epic",
+        "Count": "x 2",
+        "Targets": "Buildings",
+        "Radius": "1.5",
+        "Range": "Melee",
+        "Hit Speed": "1.2sec",
+        "Speed": "Very Fast",
+        "Projectile Range": "0"
+    },
+    "Ice Golem": {
+        "Rarity": "Rare",
+        "Targets": "Buildings",
+        "Range": "Melee",
+        "Hit Speed": "2.5sec",
+        "Speed": "Slow"
+    },
+    "Goblins": {
+        "Rarity": "Common",
+        "Count": "x 3",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.1sec",
+        "Speed": "Very Fast"
+    },
+    "Bomber": {
+        "Rarity": "Common",
+        "Targets": "Ground",
+        "Range": "4.5",
+        "Hit Speed": "1.8sec",
+        "Speed": "Medium",
+        "Radius": "1.5"
+    },
+    "Spear Goblins": {
+        "Rarity": "Common",
+        "Count": "x 3",
+        "Targets": "Air & Ground",
+        "Range": "5.0",
+        "Hit Speed": "1.7sec",
+        "Speed": "Very Fast"
+    },
+    "Bats": {
+        "Rarity": "Common",
+        "Count": "x 5",
+        "Targets": "Air & Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.3sec",
+        "Speed": "Very Fast"
+    },
+    "Skeletons": {
+        "Rarity": "Common",
+        "Count": "x 3",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Hit Speed": "1.0sec",
+        "Speed": "Fast"
+    },
+    "Ice Spirit": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Range": "2.5",
+        "Hit Speed": "0.3sec",
+        "Speed": "Very Fast",
+        "Freeze Duration": "1.3sec",
+        "Radius": "1.5"
+    },
+    "Fire Spirit": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Range": "2.0",
+        "Hit Speed": "0.3sec",
+        "Speed": "Very Fast",
+        "Radius": "2.3"
+    },
+    "Electro Spirit": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Range": "2.5",
+        "Hit Speed": "0.3sec",
+        "Speed": "Very Fast",
+        "Freeze Duration": "0.5sec"
+    },
+    "Barbarian Hut": {
+        "Barbarian": {
+            "Count": "x 2",
+            "Spawn Speed": "10.5sec",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.3sec",
+            "Speed": "Medium"
+        },
+        "Barbarian (On Death)": {
+            "Count": "x 2",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.3sec",
+            "Speed": "Medium"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Lifetime": "40sec"
+    },
+    "X-Bow": {
+        "Rarity": "Epic",
+        "Deploy Time": "3.5sec",
+        "Targets": "Ground",
+        "Range": "11.5",
+        "Hit Speed": "0.3sec",
+        "Lifetime": "30sec"
+    },
+    "Elixir Collector": {
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Production Speed": "9.0sec",
+        "Lifetime": "1min 5sec"
+    },
+    "Goblin Hut": {
+        "Spear Goblin": {
+            "Spawn Speed": "4.0sec",
+            "Targets": "Air & Ground",
+            "Range": "5.0",
+            "Hit Speed": "1.7sec",
+            "Speed": "Very Fast"
+        },
+        "Spear Goblin (On Death)": {
+            "Count": "x 3",
+            "Targets": "Air & Ground",
+            "Range": "5.0",
+            "Hit Speed": "1.7sec",
+            "Speed": "Very Fast"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Lifetime": "31sec"
+    },
+    "Inferno Tower": {
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Air & Ground",
+        "Range": "6.0",
+        "Hit Speed": "0.4sec",
+        "Lifetime": "30sec"
+    },
+    "Goblin Drill": {
+        "Rarity": "Epic",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Range": "Melee",
+        "Speed": "Medium"
+    },
+    "Bomb Tower": {
+        "Bomb (On Death)": {
+            "Targets": "Air & Ground"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Range": "6.0",
+        "Hit Speed": "1.6sec",
+        "Lifetime": "30sec",
+        "Radius": "1.5"
+    },
+    "Furnace": {
+        "Fire Spirit": {
+            "Spawn Speed": "6.0sec",
+            "Targets": "Air & Ground",
+            "Range": "2.0",
+            "Hit Speed": "0.3sec",
+            "Speed": "Very Fast",
+            "Radius": "2.3"
+        },
+        "Fire Spirit (On Death)": {
+            "Targets": "Air & Ground",
+            "Range": "2.0",
+            "Hit Speed": "0.3sec",
+            "Speed": "Very Fast",
+            "Radius": "2.3"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Lifetime": "33sec"
+    },
+    "Goblin Cage": {
+        "Goblin Brawler (On Death)": {
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.1sec",
+            "Speed": "Fast"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Range": "5.0",
+        "Lifetime": "20sec"
+    },
+    "Mortar": {
+        "Rarity": "Common",
+        "Deploy Time": "3.5sec",
+        "Targets": "Ground",
+        "Range": "11.5",
+        "Hit Speed": "5.0sec",
+        "Lifetime": "30sec",
+        "Radius": "2.0"
+    },
+    "Tesla": {
+        "Rarity": "Common",
+        "Deploy Time": "1sec",
+        "Targets": "Air & Ground",
+        "Range": "5.5",
+        "Hit Speed": "1.2sec",
+        "Lifetime": "30sec"
+    },
+    "Tombstone": {
+        "Skeleton": {
+            "Count": "x 2",
+            "Spawn Speed": "4.0sec",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.0sec",
+            "Speed": "Fast"
+        },
+        "Skeleton (On Death)": {
+            "Count": "x 4",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.0sec",
+            "Speed": "Fast"
+        },
+        "Rarity": "Rare",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Lifetime": "30sec"
+    },
+    "Cannon": {
+        "Rarity": "Common",
+        "Deploy Time": "1sec",
+        "Targets": "Ground",
+        "Range": "5.5",
+        "Hit Speed": "0.9sec",
+        "Lifetime": "30sec"
+    },
+    "Lightning": {
+        "Rarity": "Epic",
+        "Radius": "3.5",
+        "Duration": "1.5sec"
+    },
+    "Rocket": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Radius": "2.0"
+    },
+    "Graveyard": {
+        "Skeleton": {
+            "Deploy Time": "1sec",
+            "Spawn Speed": "0.5sec",
+            "Targets": "Ground",
+            "Range": "Melee",
+            "Hit Speed": "1.0sec",
+            "Speed": "Fast"
+        },
+        "Rarity": "Legendary",
+        "Radius": "4",
+        "Duration": "9.5sec"
+    },
+    "Freeze": {
+        "Rarity": "Epic",
+        "Radius": "3",
+        "Targets": "Air & Ground",
+        "Duration": "4.0sec"
+    },
+    "Poison": {
+        "Rarity": "Epic",
+        "Radius": "3.5",
+        "Duration": "8.0sec",
+        "Poison Slow": "-115%"
+    },
+    "Fireball": {
+        "Rarity": "Rare",
+        "Targets": "Air & Ground",
+        "Radius": "2.5"
+    },
+    "Goblin Barrel": {
+        "Rarity": "Epic",
+        "Targets": "Ground"
+    },
+    "Tornado": {
+        "Rarity": "Epic",
+        "Radius": "5.5",
+        "Duration": "1.1sec"
+    },
+    "Clone": {
+        "Rarity": "Epic",
+        "Radius": "3",
+        "Duration": "1.0sec",
+        "Clone Hitpoints": "1",
+        "Clone Shield Hitpoints": "1"
+    },
+    "Earthquake": {
+        "Rarity": "Rare",
+        "Radius": "3.5",
+        "Duration": "3.0sec",
+        "Earthquake Slow": "-150%"
+    },
+    "Arrows": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Radius": "4.0"
+    },
+    "Royal Delivery": {
+        "Rarity": "Common",
+        "Radius": "3",
+        "Duration": "2.0sec"
+    },
+    "The Log": {
+        "Rarity": "Legendary",
+        "Targets": "Ground",
+        "Range": "10.1"
+    },
+    "Rage": {
+        "Rarity": "Epic",
+        "Radius": "5",
+        "Rage Boost": "35%"
+    },
+    "Barbarian Barrel": {
+        "Rarity": "Epic",
+        "Targets": "Ground",
+        "Range": "4.5"
+    },
+    "Zap": {
+        "Rarity": "Common",
+        "Radius": "2.5",
+        "Targets": "Air & Ground"
+    },
+    "Giant Snowball": {
+        "Rarity": "Common",
+        "Targets": "Air & Ground",
+        "Radius": "2.5"
+    },
+    "Mirror": {},
+    "Heal Spirit": {}
+}
